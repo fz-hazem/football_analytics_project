@@ -25,7 +25,7 @@ The machine learning engine operates as a sequential execution pipeline, beginni
 
 <div align="center">
   <img src="./data/player_archetypes_pca.png" alt="Tactical Archetypes PCA Map" width="850"/>
-  <p><i>Figure 1: Spatial 2D projection using <b>PCA (54.1% Explained Variance)</b> and <b>K-Means Clustering ($K=5$)</b>. Outfield players automatically segment into distinct tactical profiles (defenders on the left, playmakers/attackers on the right), while extreme outliers (e.g., Cyril Ngonge) are visually isolated.</i></p>
+  <p><i>Figure 1: Spatial 2D projection using <b>PCA (54.1% Explained Variance)</b> and <b>K-Means Clustering ($K=5$)</b>. Displays tactical progression from defenders on the left (Akanji, Zagadou) to creative wingers/attackers on the right (Sancho, Pulisic), with specialized profiles (Oelschlägel) and extreme statistical outliers isolated into distinct clusters.</i></p>
 </div>
 
 ---
@@ -76,48 +76,3 @@ football_analytics_project/
 ├── package-lock.json                # Dependency lockfile
 ├── requirements.txt                 # Python dependencies
 └── README.md                        # Project documentation
-🚀 Getting Started
-1. Installation
-Clone the repository and install the Python environment dependencies:
-
-PowerShell
-cd Desktop\football_analytics_project
-pip install -r requirements.txt
-2. Step-by-Step Pipeline Execution
-Execute the scripts in order to build the machine learning models and populate the SQLite database:
-
-PowerShell
-# 1. Quality Control & Database Ingestion
-python scripts/quality_check.py
-python scripts/load_to_postgres.py
-
-# 2. Hard Clustering & Anomaly Detection
-python scripts/train_player_clustering.py
-python scripts/detect_scouting_outliers.py
-
-# 3. Similarity Search & Advanced Embeddings
-python scripts/build_player_similarities.py
-python scripts/train_advanced_ml.py
-python scripts/train_umap_contextual.py
-3. One-Click Automated Pipeline Run
-To execute the entire end-to-end data science pipeline in a single command in PowerShell:
-
-The machine learning pipeline populates and maintains the following tables inside `data/football_analytics.db`:
-
-| Table Name | Model / Purpose | Output Key Features |
-| :--- | :--- | :--- |
-| `players` | Ingestion Schema | `player_id`, `name`, `position_group`, `age` |
-| `player_statistics` | Preprocessed Metrics | `goals_per90`, `key_passes_per90`, `dribbles_per90` |
-| `player_clusters` | PCA + K-Means | `cluster_id`, `PCA1`, `PCA2` |
-| `player_outliers` | Isolation Forest | `anomaly_score`, `is_outlier` |
-| `player_similarities` | Cosine Similarity | `similar_player_id`, `similarity_score`, `rank` |
-| `player_gmm_clusters` | Quantile + GMM | `primary_cluster`, `cluster_confidence`, `probabilities` |
-| `player_umap_embeddings` | Positional Z-Score + UMAP | `UMAP_1`, `UMAP_2` |
-🌐 FastAPI REST Integration
-Serve the analytics outputs directly to the Next.js frontend or external tools via the REST API:
-
-PowerShell
-uvicorn scripts.api:app --reload --port 8000
-Interactive OpenAPI Docs: http://localhost:8000/docs
-
-Players JSON Endpoint: http://localhost:8000/api/players
