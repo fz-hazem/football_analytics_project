@@ -1,0 +1,50 @@
+[
+  {
+    "league_id": 39,
+    "name": "Premier League",
+    "country": "England",
+    "category": "Big Five"
+  },
+  {
+    "league_id": 140,
+    "name": "La Liga",
+    "country": "Spain",
+    "category": "Big Five"
+  },
+  {
+    "league_id": 78,
+    "name": "Bundesliga",
+    "country": "Germany",
+    "category": "Big Five"
+  },
+  {
+    "league_id": 135,
+    "name": "Serie A",
+    "country": "Italy",
+    "category": "Big Five"
+  },
+  {
+    "league_id": 61,
+    "name": "Ligue 1",
+    "country": "France",
+    "category": "Big Five"
+  },
+  {
+    "league_id": 88,
+    "name": "Eredivisie",
+    "country": "Netherlands",
+    "category": "Secondary Leagues"
+  },
+  {
+    "league_id": 94,
+    "name": "Primeira Liga",
+    "country": "Portugal",
+    "category": "Secondary Leagues"
+  },
+  {
+    "league_id": 144,
+    "name": "Jupiler Pro League",
+    "country": "Belgium",
+    "category": "Secondary Leagues"
+  }
+]

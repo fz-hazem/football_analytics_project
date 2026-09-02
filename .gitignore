@@ -1,0 +1,22 @@
+# Environment & Secrets
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.venv/
+venv/
+ENV/
+
+# Node.js & Next.js
+node_modules/
+web/node_modules/
+.next/
+web/.next/
+
+# IDE & OS
+.vscode/
+.DS_Store
+Thumbs.db

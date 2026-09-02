@@ -1,0 +1,6146 @@
+[
+  {
+    "player": {
+      "id": 15,
+      "name": "T. Delaney",
+      "firstname": "Thomas Joseph",
+      "lastname": "Delaney",
+      "age": 34,
+      "birth": {
+        "date": "1991-09-03",
+        "place": "Frederiksberg",
+        "country": "Denmark"
+      },
+      "nationality": "Denmark",
+      "height": "182",
+      "weight": "79",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/15.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 536,
+          "name": "Sevilla",
+          "logo": "https://media.api-sports.io/football/teams/536.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 20,
+      "name": "A. Witsel",
+      "firstname": "Axel Laurent Angel",
+      "lastname": "Lambert Witsel",
+      "age": 37,
+      "birth": {
+        "date": "1989-01-12",
+        "place": "Liège",
+        "country": "Belgium"
+      },
+      "nationality": "Belgium",
+      "height": "186",
+      "weight": "81",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/20.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 547,
+          "name": "Girona",
+          "logo": "https://media.api-sports.io/football/teams/547.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 36,
+          "lineups": 32,
+          "minutes": 2783,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.957142",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 6,
+          "on": 3
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 1818,
+          "key": 3,
+          "accuracy": 47
+        },
+        "tackles": {
+          "total": 36,
+          "blocks": 21,
+          "interceptions": 16
+        },
+        "duels": {
+          "total": 191,
+          "won": 125
+        },
+        "dribbles": {
+          "attempts": 8,
+          "success": 5,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 29,
+          "committed": 24
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      },
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 35,
+          "lineups": 31,
+          "minutes": 2783,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.957142",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 6,
+          "on": 3
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 1818,
+          "key": 3,
+          "accuracy": 47
+        },
+        "tackles": {
+          "total": 36,
+          "blocks": 21,
+          "interceptions": 16
+        },
+        "duels": {
+          "total": 191,
+          "won": 125
+        },
+        "dribbles": {
+          "attempts": 8,
+          "success": 5,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 29,
+          "committed": 24
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 29,
+      "name": "J. Oblak",
+      "firstname": "Jan",
+      "lastname": "Oblak",
+      "age": 33,
+      "birth": {
+        "date": "1993-01-07",
+        "place": "Škofja Loka",
+        "country": "Slovenia"
+      },
+      "nationality": "Slovenia",
+      "height": "188",
+      "weight": "87",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/29.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 38,
+          "lineups": 38,
+          "minutes": 3420,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "6.965789",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 43,
+          "assists": 0,
+          "saves": 102
+        },
+        "passes": {
+          "total": 842,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 12,
+          "won": 11
+        },
+        "dribbles": {
+          "attempts": 1,
+          "success": 1,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 2,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 0
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 31,
+      "name": "J. Giménez",
+      "firstname": "José María",
+      "lastname": "Giménez de Vargas",
+      "age": 30,
+      "birth": {
+        "date": "1995-01-20",
+        "place": "Toledo",
+        "country": "Uruguay"
+      },
+      "nationality": "Uruguay",
+      "height": "186",
+      "weight": "77",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/31.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 24,
+          "lineups": 18,
+          "minutes": 1322,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.827272",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 6,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 7,
+          "on": 1
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 652,
+          "key": 2,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 18,
+          "blocks": 12,
+          "interceptions": 10
+        },
+        "duels": {
+          "total": 100,
+          "won": 53
+        },
+        "dribbles": {
+          "attempts": 3,
+          "success": 2,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 2,
+          "committed": 17
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 39,
+      "name": "S. Savić",
+      "firstname": "Stefan",
+      "lastname": "Savić",
+      "age": 35,
+      "birth": {
+        "date": "1991-01-08",
+        "place": "Mojkovac",
+        "country": "Montenegro"
+      },
+      "nationality": "Montenegro",
+      "height": "187",
+      "weight": "81",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/39.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 23,
+          "lineups": 21,
+          "minutes": 1635,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.786363",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 5,
+          "on": 1
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 971,
+          "key": 1,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 27,
+          "blocks": 15,
+          "interceptions": 27
+        },
+        "duels": {
+          "total": 150,
+          "won": 87
+        },
+        "dribbles": {
+          "attempts": 8,
+          "success": 8,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 6,
+          "committed": 16
+        },
+        "cards": {
+          "yellow": 7,
+          "yellowred": null,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 45,
+      "name": "T. Lemar",
+      "firstname": "Thomas Benoît",
+      "lastname": "Lemar",
+      "age": 30,
+      "birth": {
+        "date": "1995-11-12",
+        "place": "Baie-Mahault",
+        "country": "Guadeloupe"
+      },
+      "nationality": "France",
+      "height": "171",
+      "weight": "63",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/45.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 5,
+          "lineups": 4,
+          "minutes": 167,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.633333",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 1,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 1,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 77,
+          "key": 1,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 3,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 15,
+          "won": 6
+        },
+        "dribbles": {
+          "attempts": 2,
+          "success": 1,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 2,
+          "committed": 3
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 46,
+      "name": "Vitolo",
+      "firstname": "Víctor",
+      "lastname": "Machín Pérez",
+      "age": 34,
+      "birth": {
+        "date": "1989-11-02",
+        "place": "Las Palmas de Gran Canaria",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "80 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/46.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 48,
+      "name": "Saúl",
+      "firstname": "Saúl",
+      "lastname": "Ñíguez Esclapez",
+      "age": 31,
+      "birth": {
+        "date": "1994-11-21",
+        "place": "Elche",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/48.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 34,
+          "lineups": 14,
+          "minutes": 1364,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.954545",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 20,
+          "out": 9,
+          "bench": 23
+        },
+        "shots": {
+          "total": 13,
+          "on": 4
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 4,
+          "saves": null
+        },
+        "passes": {
+          "total": 659,
+          "key": 13,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 65,
+          "blocks": 9,
+          "interceptions": 14
+        },
+        "duels": {
+          "total": 242,
+          "won": 133
+        },
+        "dribbles": {
+          "attempts": 13,
+          "success": 8,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 14,
+          "committed": 42
+        },
+        "cards": {
+          "yellow": 9,
+          "yellowred": 1,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 50,
+      "name": "Koke",
+      "firstname": "Jorge",
+      "lastname": "Resurrección Merodio",
+      "age": 33,
+      "birth": {
+        "date": "1992-01-08",
+        "place": "Madrid",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "176",
+      "weight": "77",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/50.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 35,
+          "lineups": 33,
+          "minutes": 2502,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.067647",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 6,
+          "on": 2
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 4,
+          "saves": null
+        },
+        "passes": {
+          "total": 2237,
+          "key": 27,
+          "accuracy": 58
+        },
+        "tackles": {
+          "total": 64,
+          "blocks": 12,
+          "interceptions": 15
+        },
+        "duels": {
+          "total": 205,
+          "won": 103
+        },
+        "dribbles": {
+          "attempts": 11,
+          "success": 5,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 19,
+          "committed": 19
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 52,
+      "name": "Sergio Camello",
+      "firstname": "Sergio",
+      "lastname": "Camello Pérez",
+      "age": 24,
+      "birth": {
+        "date": "2001-02-10",
+        "place": "Madrid",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "177",
+      "weight": "69",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/52.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      },
+      {
+        "team": {
+          "id": 728,
+          "name": "Rayo Vallecano",
+          "logo": "https://media.api-sports.io/football/teams/728.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 31,
+          "lineups": 20,
+          "minutes": 1668,
+          "number": null,
+          "position": "Attacker",
+          "rating": "6.674193",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 11,
+          "out": 19,
+          "bench": 17
+        },
+        "shots": {
+          "total": 21,
+          "on": 13
+        },
+        "goals": {
+          "total": 3,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 372,
+          "key": 20,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 16,
+          "blocks": 2,
+          "interceptions": 3
+        },
+        "duels": {
+          "total": 180,
+          "won": 59
+        },
+        "dribbles": {
+          "attempts": 47,
+          "success": 16,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 11,
+          "committed": 18
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 53,
+      "name": "Á. Correa",
+      "firstname": "Ángel Martín",
+      "lastname": "Correa Martínez",
+      "age": 30,
+      "birth": {
+        "date": "1995-03-09",
+        "place": "Rosario",
+        "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "173",
+      "weight": "68",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/53.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 35,
+          "lineups": 26,
+          "minutes": 1532,
+          "number": null,
+          "position": "Attacker",
+          "rating": "7.015625",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 9,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 34,
+          "on": 20
+        },
+        "goals": {
+          "total": 9,
+          "conceded": 0,
+          "assists": 2,
+          "saves": null
+        },
+        "passes": {
+          "total": 469,
+          "key": 32,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 22,
+          "blocks": null,
+          "interceptions": 2
+        },
+        "duels": {
+          "total": 193,
+          "won": 85
+        },
+        "dribbles": {
+          "attempts": 53,
+          "success": 26,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 32,
+          "committed": 24
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 1,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 55,
+      "name": "Borja Garcés",
+      "firstname": "Borja",
+      "lastname": "Garcés Moreno",
+      "age": 26,
+      "birth": {
+        "date": "1999-08-06",
+        "place": "Melilla",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "183 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/55.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 56,
+      "name": "A. Griezmann",
+      "firstname": "Antoine",
+      "lastname": "Griezmann",
+      "age": 34,
+      "birth": {
+        "date": "1991-03-21",
+        "place": "Mâcon",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "176",
+      "weight": "73",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/56.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 33,
+          "lineups": 31,
+          "minutes": 2653,
+          "number": null,
+          "position": "Attacker",
+          "rating": "7.457575",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": 12,
+          "bench": 3
+        },
+        "shots": {
+          "total": 56,
+          "on": 34
+        },
+        "goals": {
+          "total": 16,
+          "conceded": 0,
+          "assists": 6,
+          "saves": null
+        },
+        "passes": {
+          "total": 1243,
+          "key": 43,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 33,
+          "blocks": 3,
+          "interceptions": 10
+        },
+        "duels": {
+          "total": 203,
+          "won": 95
+        },
+        "dribbles": {
+          "attempts": 37,
+          "success": 22,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 26,
+          "committed": 16
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 4,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 58,
+      "name": "Víctor Mollejo",
+      "firstname": "Víctor",
+      "lastname": "Mollejo Carpintero",
+      "age": 24,
+      "birth": {
+        "date": "2001-01-21",
+        "place": "Alcázar de San Juan",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "177 cm",
+      "weight": "63 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/58.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 59,
+      "name": "Álvaro Morata",
+      "firstname": "Álvaro Borja",
+      "lastname": "Morata Martín",
+      "age": 33,
+      "birth": {
+        "date": "1992-10-23",
+        "place": "Madrid",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "190",
+      "weight": "84",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/59.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 32,
+          "lineups": 27,
+          "minutes": 1914,
+          "number": null,
+          "position": "Forward",
+          "rating": "6.953125",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 60,
+          "on": 34
+        },
+        "goals": {
+          "total": 15,
+          "conceded": 0,
+          "assists": 3,
+          "saves": null
+        },
+        "passes": {
+          "total": 373,
+          "key": 15,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 16,
+          "blocks": 3,
+          "interceptions": 1
+        },
+        "duels": {
+          "total": 223,
+          "won": 112
+        },
+        "dribbles": {
+          "attempts": 33,
+          "success": 17,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 35,
+          "committed": 33
+        },
+        "cards": {
+          "yellow": 4,
+          "yellowred": null,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 1,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 83,
+      "name": "A. Danjuma",
+      "firstname": "Arnaut",
+      "lastname": "Danjuma Adam Groeneveld",
+      "age": 28,
+      "birth": {
+        "date": "1997-01-31",
+        "place": "Lagos",
+        "country": "Nigeria"
+      },
+      "nationality": "Netherlands",
+      "height": "178",
+      "weight": "74",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/83.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 533,
+          "name": "Villarreal",
+          "logo": "https://media.api-sports.io/football/teams/533.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 111,
+      "name": "Rony Lopes",
+      "firstname": "Marcos Paulo",
+      "lastname": "Mesquita Lopes",
+      "age": 30,
+      "birth": {
+        "date": "1995-12-28",
+        "place": "Belém",
+        "country": "Brazil"
+      },
+      "nationality": "Portugal",
+      "height": "174",
+      "weight": "68",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/111.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 536,
+          "name": "Sevilla",
+          "logo": "https://media.api-sports.io/football/teams/536.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Forward",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 119,
+      "name": "R. Falcao",
+      "firstname": "Radamel Falcao",
+      "lastname": "García Zárate",
+      "age": 40,
+      "birth": {
+        "date": "1986-02-10",
+        "place": "Santa Marta",
+        "country": "Colombia"
+      },
+      "nationality": "Colombia",
+      "height": "177",
+      "weight": "72",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/119.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 728,
+          "name": "Rayo Vallecano",
+          "logo": "https://media.api-sports.io/football/teams/728.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 22,
+          "lineups": 11,
+          "minutes": 403,
+          "number": null,
+          "position": "Forward",
+          "rating": "6.540909",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 11,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 13,
+          "on": 7
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 107,
+          "key": 4,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 7,
+          "blocks": null,
+          "interceptions": 3
+        },
+        "duels": {
+          "total": 88,
+          "won": 33
+        },
+        "dribbles": {
+          "attempts": 7,
+          "success": 3,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 10,
+          "committed": 15
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 1,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 126,
+      "name": "Iñaki Peña",
+      "firstname": "Ignacio",
+      "lastname": "Peña Sotorres",
+      "age": 26,
+      "birth": {
+        "date": "1999-03-02",
+        "place": "Alicante",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "184",
+      "weight": "78",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/126.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 529,
+          "name": "Barcelona",
+          "logo": "https://media.api-sports.io/football/teams/529.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 10,
+          "lineups": 10,
+          "minutes": 900,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "6.610000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 17,
+          "assists": null,
+          "saves": 22
+        },
+        "passes": {
+          "total": 251,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 6,
+          "won": 5
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 1,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 0
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 127,
+      "name": "M. ter Stegen",
+      "firstname": "Marc-André",
+      "lastname": "ter Stegen",
+      "age": 33,
+      "birth": {
+        "date": "1992-04-30",
+        "place": "Mönchengladbach",
+        "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "187",
+      "weight": "88",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/127.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 529,
+          "name": "Barcelona",
+          "logo": "https://media.api-sports.io/football/teams/529.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 28,
+          "lineups": 28,
+          "minutes": 2520,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "7.157142",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 27,
+          "assists": 0,
+          "saves": 75
+        },
+        "passes": {
+          "total": 920,
+          "key": 1,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 5,
+          "won": 5
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 1,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 0
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 129,
+      "name": "Chumi",
+      "firstname": "Juan",
+      "lastname": "Brandáriz Movilla",
+      "age": 26,
+      "birth": {
+        "date": "1999-03-02",
+        "place": "A Laracha",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "186 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/129.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 723,
+          "name": "Almeria",
+          "logo": "https://media.api-sports.io/football/teams/723.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 31,
+          "lineups": 26,
+          "minutes": 2431,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.606451",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": 2,
+          "bench": 11
+        },
+        "shots": {
+          "total": 4,
+          "on": 1
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 1176,
+          "key": 4,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 34,
+          "blocks": 23,
+          "interceptions": 14
+        },
+        "duels": {
+          "total": 159,
+          "won": 90
+        },
+        "dribbles": {
+          "attempts": 6,
+          "success": 5,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 8,
+          "committed": 23
+        },
+        "cards": {
+          "yellow": 4,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 131,
+      "name": "Jorge Cuenca",
+      "firstname": "Jorge",
+      "lastname": "Cuenca Barreno",
+      "age": 26,
+      "birth": {
+        "date": "1999-11-17",
+        "place": "Madrid",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "190",
+      "weight": "75",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/131.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 533,
+          "name": "Villarreal",
+          "logo": "https://media.api-sports.io/football/teams/533.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 29,
+          "lineups": 21,
+          "minutes": 1960,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.803448",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 8,
+          "out": 5,
+          "bench": 14
+        },
+        "shots": {
+          "total": 19,
+          "on": 7
+        },
+        "goals": {
+          "total": 3,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 1089,
+          "key": 6,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 41,
+          "blocks": 15,
+          "interceptions": 21
+        },
+        "duels": {
+          "total": 205,
+          "won": 122
+        },
+        "dribbles": {
+          "attempts": 14,
+          "success": 8,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 12,
+          "committed": 25
+        },
+        "cards": {
+          "yellow": 7,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 133,
+      "name": "C. Lenglet",
+      "firstname": "Clément Nicolas Laurent",
+      "lastname": "Lenglet",
+      "age": 31,
+      "birth": {
+        "date": "1995-06-17",
+        "place": "Beauvais",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "186",
+      "weight": "81",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/133.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 529,
+          "name": "Barcelona",
+          "logo": "https://media.api-sports.io/football/teams/529.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 134,
+      "name": "Juan Miranda",
+      "firstname": "Juan",
+      "lastname": "Miranda González",
+      "age": 25,
+      "birth": {
+        "date": "2000-01-19",
+        "place": "Olivares",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185",
+      "weight": "76",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/134.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 543,
+          "name": "Real Betis",
+          "logo": "https://media.api-sports.io/football/teams/543.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 25,
+          "lineups": 21,
+          "minutes": 1862,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.028000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": 8,
+          "bench": 14
+        },
+        "shots": {
+          "total": 12,
+          "on": 6
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 920,
+          "key": 24,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 38,
+          "blocks": 6,
+          "interceptions": 19
+        },
+        "duels": {
+          "total": 179,
+          "won": 105
+        },
+        "dribbles": {
+          "attempts": 15,
+          "success": 7,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 34,
+          "committed": 21
+        },
+        "cards": {
+          "yellow": 8,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 137,
+      "name": "Sergi Roberto",
+      "firstname": "Sergi",
+      "lastname": "Roberto Carnicer",
+      "age": 33,
+      "birth": {
+        "date": "1992-02-07",
+        "place": "Reus",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "178",
+      "weight": "68",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/137.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 529,
+          "name": "Barcelona",
+          "logo": "https://media.api-sports.io/football/teams/529.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 28,
+          "lineups": 18,
+          "minutes": 863,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.042857",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 10,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 10,
+          "on": 4
+        },
+        "goals": {
+          "total": 3,
+          "conceded": 0,
+          "assists": 2,
+          "saves": null
+        },
+        "passes": {
+          "total": 629,
+          "key": 9,
+          "accuracy": 40
+        },
+        "tackles": {
+          "total": 15,
+          "blocks": 2,
+          "interceptions": 8
+        },
+        "duels": {
+          "total": 70,
+          "won": 37
+        },
+        "dribbles": {
+          "attempts": 4,
+          "success": 3,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 7,
+          "committed": 8
+        },
+        "cards": {
+          "yellow": 4,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 143,
+      "name": "Carles Aleñá",
+      "firstname": "Carles",
+      "lastname": "Aleña Castillo",
+      "age": 27,
+      "birth": {
+        "date": "1998-01-05",
+        "place": "Mataró",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180",
+      "weight": "70",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/143.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 546,
+          "name": "Getafe",
+          "logo": "https://media.api-sports.io/football/teams/546.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 29,
+          "lineups": 10,
+          "minutes": 1011,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.575862",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 19,
+          "out": 10,
+          "bench": 25
+        },
+        "shots": {
+          "total": 11,
+          "on": 5
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 357,
+          "key": 18,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 24,
+          "blocks": 3,
+          "interceptions": 4
+        },
+        "duels": {
+          "total": 149,
+          "won": 59
+        },
+        "dribbles": {
+          "attempts": 25,
+          "success": 6,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 18,
+          "committed": 22
+        },
+        "cards": {
+          "yellow": 6,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 146,
+      "name": "Álex Collado",
+      "firstname": "Álex",
+      "lastname": "Collado Gutiérrez",
+      "age": 26,
+      "birth": {
+        "date": "1999-04-22",
+        "place": "Sabadell",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "178",
+      "weight": "67",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/146.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 529,
+          "name": "Barcelona",
+          "logo": "https://media.api-sports.io/football/teams/529.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      },
+      {
+        "team": {
+          "id": 543,
+          "name": "Real Betis",
+          "logo": "https://media.api-sports.io/football/teams/543.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 149,
+      "name": "I. Rakitić",
+      "firstname": "Ivan",
+      "lastname": "Rakitić",
+      "age": 37,
+      "birth": {
+        "date": "1988-03-10",
+        "place": "Rheinfelden",
+        "country": "Switzerland"
+      },
+      "nationality": "Croatia",
+      "height": "184 cm",
+      "weight": "78 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/149.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 536,
+          "name": "Sevilla",
+          "logo": "https://media.api-sports.io/football/teams/536.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 18,
+          "lineups": 16,
+          "minutes": 1426,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.433333",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": 3,
+          "bench": 4
+        },
+        "shots": {
+          "total": 21,
+          "on": 8
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 934,
+          "key": 49,
+          "accuracy": 42
+        },
+        "tackles": {
+          "total": 30,
+          "blocks": 5,
+          "interceptions": 14
+        },
+        "duels": {
+          "total": 120,
+          "won": 69
+        },
+        "dribbles": {
+          "attempts": 17,
+          "success": 8,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 19,
+          "committed": 16
+        },
+        "cards": {
+          "yellow": 6,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 153,
+      "name": "O. Dembélé",
+      "firstname": "Masour Ousmane",
+      "lastname": "Dembélé",
+      "age": 28,
+      "birth": {
+        "date": "1997-05-15",
+        "place": "Vernon",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "178",
+      "weight": "67",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/153.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 529,
+          "name": "Barcelona",
+          "logo": "https://media.api-sports.io/football/teams/529.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 158,
+      "name": "P. Gazzaniga",
+      "firstname": "Paulo Dino",
+      "lastname": "Gazzaniga Farias",
+      "age": 33,
+      "birth": {
+        "date": "1992-01-02",
+        "place": "Murphy",
+        "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "195",
+      "weight": "90",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/158.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 547,
+          "name": "Girona",
+          "logo": "https://media.api-sports.io/football/teams/547.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 38,
+          "lineups": 38,
+          "minutes": 3420,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "7.252631",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 46,
+          "assists": 0,
+          "saves": 125
+        },
+        "passes": {
+          "total": 1209,
+          "key": 3,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 2,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 27,
+          "won": 24
+        },
+        "dribbles": {
+          "attempts": 6,
+          "success": 6,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 8,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 1
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 166,
+      "name": "J. Foyth",
+      "firstname": "Juan Marcos",
+      "lastname": "Foyth",
+      "age": 27,
+      "birth": {
+        "date": "1998-01-12",
+        "place": "La Plata",
+        "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "187",
+      "weight": "83",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/166.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 533,
+          "name": "Villarreal",
+          "logo": "https://media.api-sports.io/football/teams/533.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 12,
+          "lineups": 12,
+          "minutes": 1062,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.050000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 1,
+          "bench": 0
+        },
+        "shots": {
+          "total": 4,
+          "on": 2
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 576,
+          "key": 5,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 26,
+          "blocks": 4,
+          "interceptions": 12
+        },
+        "duels": {
+          "total": 141,
+          "won": 79
+        },
+        "dribbles": {
+          "attempts": 26,
+          "success": 20,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 7,
+          "committed": 18
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 176,
+      "name": "E. Lamela",
+      "firstname": "Erik Manuel",
+      "lastname": "Lamela Cordero",
+      "age": 33,
+      "birth": {
+        "date": "1992-03-04",
+        "place": "Florida",
+        "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "181",
+      "weight": "79",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/176.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 536,
+          "name": "Sevilla",
+          "logo": "https://media.api-sports.io/football/teams/536.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 20,
+          "lineups": 13,
+          "minutes": 491,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.833333",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 7,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 8,
+          "on": 4
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 156,
+          "key": 12,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 20,
+          "blocks": null,
+          "interceptions": 1
+        },
+        "duels": {
+          "total": 85,
+          "won": 34
+        },
+        "dribbles": {
+          "attempts": 16,
+          "success": 6,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 6,
+          "committed": 18
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 274,
+      "name": "E. Cavani",
+      "firstname": "Edinson Roberto",
+      "lastname": "Cavani Gómez",
+      "age": 38,
+      "birth": {
+        "date": "1987-02-14",
+        "place": "Salto",
+        "country": "Uruguay"
+      },
+      "nationality": "Uruguay",
+      "height": "185",
+      "weight": "71",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/274.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 532,
+          "name": "Valencia",
+          "logo": "https://media.api-sports.io/football/teams/532.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 288,
+      "name": "Alberto Moreno",
+      "firstname": "Alberto",
+      "lastname": "Moreno Pérez",
+      "age": 33,
+      "birth": {
+        "date": "1992-07-05",
+        "place": "Sevilla",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "171",
+      "weight": "65",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/288.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 533,
+          "name": "Villarreal",
+          "logo": "https://media.api-sports.io/football/teams/533.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 30,
+          "lineups": 25,
+          "minutes": 1497,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.755555",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 11,
+          "on": 5
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": 2,
+          "saves": null
+        },
+        "passes": {
+          "total": 593,
+          "key": 16,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 31,
+          "blocks": 2,
+          "interceptions": 22
+        },
+        "duels": {
+          "total": 124,
+          "won": 60
+        },
+        "dribbles": {
+          "attempts": 9,
+          "success": 5,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 14,
+          "committed": 24
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": null,
+          "red": 2
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 314,
+      "name": "Raúl Albiol",
+      "firstname": "Raúl",
+      "lastname": "Albiol i Tortajada",
+      "age": 40,
+      "birth": {
+        "date": "1985-09-04",
+        "place": "Villamarchante",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "190",
+      "weight": "82",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/314.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 533,
+          "name": "Villarreal",
+          "logo": "https://media.api-sports.io/football/teams/533.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 30,
+          "lineups": 26,
+          "minutes": 2035,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.803846",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 5,
+          "on": 1
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 1262,
+          "key": 3,
+          "accuracy": 41
+        },
+        "tackles": {
+          "total": 25,
+          "blocks": 24,
+          "interceptions": 16
+        },
+        "duels": {
+          "total": 140,
+          "won": 79
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 8,
+          "committed": 21
+        },
+        "cards": {
+          "yellow": 6,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 330,
+      "name": "José Callejón",
+      "firstname": "José María",
+      "lastname": "Callejón Bueno",
+      "age": 38,
+      "birth": {
+        "date": "1987-02-11",
+        "place": "Motril",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "178 cm",
+      "weight": "73 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/330.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 715,
+          "name": "Granada CF",
+          "logo": "https://media.api-sports.io/football/teams/715.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 25,
+          "lineups": 7,
+          "minutes": 794,
+          "number": null,
+          "position": "Attacker",
+          "rating": "6.668000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 18,
+          "out": 7,
+          "bench": 31
+        },
+        "shots": {
+          "total": 9,
+          "on": 4
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 320,
+          "key": 16,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 13,
+          "blocks": 1,
+          "interceptions": 5
+        },
+        "duels": {
+          "total": 88,
+          "won": 44
+        },
+        "dribbles": {
+          "attempts": 7,
+          "success": 3,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 21,
+          "committed": 11
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 340,
+      "name": "S. Babić",
+      "firstname": "Srđan",
+      "lastname": "Babić",
+      "age": 30,
+      "birth": {
+        "date": "1996-04-22",
+        "place": "Banja Luka",
+        "country": "Bosnia and Herzegovina"
+      },
+      "nationality": "Serbia",
+      "height": "195",
+      "weight": "96",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/340.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 723,
+          "name": "Almeria",
+          "logo": "https://media.api-sports.io/football/teams/723.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 1,
+          "lineups": 1,
+          "minutes": 90,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.900000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 1,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 62,
+          "key": null,
+          "accuracy": 58
+        },
+        "tackles": {
+          "total": 2,
+          "blocks": 1,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 8,
+          "won": 5
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": 2
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 372,
+      "name": "Éder Militão",
+      "firstname": "Éder Gabriel",
+      "lastname": "Militão",
+      "age": 28,
+      "birth": {
+        "date": "1998-01-18",
+        "place": "Sertãozinho",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "186",
+      "weight": "78",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/372.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 541,
+          "name": "Real Madrid",
+          "logo": "https://media.api-sports.io/football/teams/541.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 10,
+          "lineups": 7,
+          "minutes": 497,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.862500",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 3,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 2,
+          "on": 2
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 326,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 7,
+          "blocks": 3,
+          "interceptions": 5
+        },
+        "duels": {
+          "total": 46,
+          "won": 24
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 5,
+          "committed": 5
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 383,
+      "name": "Wilson Manafá",
+      "firstname": "Wilson Migueis",
+      "lastname": "Manafá Jancó",
+      "age": 32,
+      "birth": {
+        "date": "1994-07-23",
+        "place": "Oliveira do Bairro",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "177",
+      "weight": "69",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/383.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 715,
+          "name": "Granada CF",
+          "logo": "https://media.api-sports.io/football/teams/715.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 4,
+          "lineups": 4,
+          "minutes": 241,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.375000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 1,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 98,
+          "key": 1,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 6,
+          "blocks": null,
+          "interceptions": 1
+        },
+        "duels": {
+          "total": 27,
+          "won": 14
+        },
+        "dribbles": {
+          "attempts": 9,
+          "success": 6,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": 3
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 385,
+      "name": "Óliver Torres",
+      "firstname": "Óliver",
+      "lastname": "Torres Muñoz",
+      "age": 31,
+      "birth": {
+        "date": "1994-11-10",
+        "place": "Navalmoral de la Mata",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "178",
+      "weight": "70",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/385.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 536,
+          "name": "Sevilla",
+          "logo": "https://media.api-sports.io/football/teams/536.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 27,
+          "lineups": 23,
+          "minutes": 1628,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.800000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 7,
+          "on": 3
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 825,
+          "key": 22,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 37,
+          "blocks": 4,
+          "interceptions": 6
+        },
+        "duels": {
+          "total": 205,
+          "won": 82
+        },
+        "dribbles": {
+          "attempts": 23,
+          "success": 11,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 23,
+          "committed": 26
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 389,
+      "name": "J. Corona",
+      "firstname": "Jesús Manuel",
+      "lastname": "Corona Ruíz",
+      "age": 33,
+      "birth": {
+        "date": "1993-01-06",
+        "place": "Hermosillo",
+        "country": "Mexico"
+      },
+      "nationality": "Mexico",
+      "height": "173",
+      "weight": "59",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/389.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 536,
+          "name": "Sevilla",
+          "logo": "https://media.api-sports.io/football/teams/536.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 2,
+          "lineups": 1,
+          "minutes": 16,
+          "number": null,
+          "position": "Forward",
+          "rating": "6.700000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 1,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 12,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": 1
+        },
+        "duels": {
+          "total": 2,
+          "won": 1
+        },
+        "dribbles": {
+          "attempts": 1,
+          "success": 1,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": 1
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 403,
+      "name": "M. Nastasić",
+      "firstname": "Matija",
+      "lastname": "Nastasić",
+      "age": 32,
+      "birth": {
+        "date": "1993-03-28",
+        "place": "Valjevo",
+        "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "188 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/403.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 798,
+          "name": "Mallorca",
+          "logo": "https://media.api-sports.io/football/teams/798.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 26,
+          "lineups": 25,
+          "minutes": 2257,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.892307",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 1,
+          "out": 0,
+          "bench": 8
+        },
+        "shots": {
+          "total": 6,
+          "on": 2
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 982,
+          "key": 5,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 34,
+          "blocks": 20,
+          "interceptions": 29
+        },
+        "duels": {
+          "total": 155,
+          "won": 85
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 7,
+          "committed": 33
+        },
+        "cards": {
+          "yellow": 8,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 414,
+      "name": "Omar Mascarell",
+      "firstname": "Omar",
+      "lastname": "Mascarell González",
+      "age": 32,
+      "birth": {
+        "date": "1993-02-02",
+        "place": "Santa Cruz de Tenerife",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "181",
+      "weight": "76",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/414.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 798,
+          "name": "Mallorca",
+          "logo": "https://media.api-sports.io/football/teams/798.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 34,
+          "lineups": 24,
+          "minutes": 1578,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.665517",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 10,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 4,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 775,
+          "key": 3,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 33,
+          "blocks": 8,
+          "interceptions": 31
+        },
+        "duels": {
+          "total": 165,
+          "won": 85
+        },
+        "dribbles": {
+          "attempts": 9,
+          "success": 8,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 14,
+          "committed": 31
+        },
+        "cards": {
+          "yellow": 8,
+          "yellowred": null,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 433,
+      "name": "Marcão",
+      "firstname": "Marcos",
+      "lastname": "do Nascimento Teixeira",
+      "age": 30,
+      "birth": {
+        "date": "1996-06-05",
+        "place": "Londrina",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "185",
+      "weight": "80",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/433.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 536,
+          "name": "Sevilla",
+          "logo": "https://media.api-sports.io/football/teams/536.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 7,
+          "lineups": 5,
+          "minutes": 354,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.783333",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 195,
+          "key": 1,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 9,
+          "blocks": 6,
+          "interceptions": 4
+        },
+        "duels": {
+          "total": 34,
+          "won": 21
+        },
+        "dribbles": {
+          "attempts": 2,
+          "success": 1,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 6,
+          "committed": 5
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 452,
+      "name": "Fernando",
+      "firstname": "Fernando Francisco",
+      "lastname": "Reges",
+      "age": 38,
+      "birth": {
+        "date": "1987-07-25",
+        "place": "Goiás",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "183",
+      "weight": "76",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/452.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 536,
+          "name": "Sevilla",
+          "logo": "https://media.api-sports.io/football/teams/536.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 11,
+          "lineups": 9,
+          "minutes": 459,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.850000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 237,
+          "key": 2,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 9,
+          "blocks": null,
+          "interceptions": 7
+        },
+        "duels": {
+          "total": 47,
+          "won": 25
+        },
+        "dribbles": {
+          "attempts": 5,
+          "success": 4,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 3,
+          "committed": 6
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 505,
+      "name": "D. Alaba",
+      "firstname": "David",
+      "lastname": "Olatukunbo Alaba",
+      "age": 33,
+      "birth": {
+        "date": "1992-06-24",
+        "place": "Wien",
+        "country": "Austria"
+      },
+      "nationality": "Austria",
+      "height": "180",
+      "weight": "78",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/505.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 541,
+          "name": "Real Madrid",
+          "logo": "https://media.api-sports.io/football/teams/541.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 15,
+          "lineups": 15,
+          "minutes": 1156,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.135714",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 10,
+          "on": 4
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 878,
+          "key": 10,
+          "accuracy": 57
+        },
+        "tackles": {
+          "total": 14,
+          "blocks": 7,
+          "interceptions": 16
+        },
+        "duels": {
+          "total": 42,
+          "won": 24
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": 4
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 521,
+      "name": "R. Lewandowski",
+      "firstname": "Robert",
+      "lastname": "Lewandowski",
+      "age": 37,
+      "birth": {
+        "date": "1988-08-21",
+        "place": "Warszawa",
+        "country": "Poland"
+      },
+      "nationality": "Poland",
+      "height": "186",
+      "weight": "81",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/521.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 529,
+          "name": "Barcelona",
+          "logo": "https://media.api-sports.io/football/teams/529.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 35,
+          "lineups": 33,
+          "minutes": 2758,
+          "number": null,
+          "position": "Attacker",
+          "rating": "7.254285",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 69,
+          "on": 43
+        },
+        "goals": {
+          "total": 19,
+          "conceded": 0,
+          "assists": 8,
+          "saves": null
+        },
+        "passes": {
+          "total": 566,
+          "key": 27,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 8,
+          "blocks": 4,
+          "interceptions": 9
+        },
+        "duels": {
+          "total": 275,
+          "won": 137
+        },
+        "dribbles": {
+          "attempts": 53,
+          "success": 23,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 55,
+          "committed": 23
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 4,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 531,
+      "name": "D. Blind",
+      "firstname": "Daley",
+      "lastname": "Blind",
+      "age": 35,
+      "birth": {
+        "date": "1990-03-09",
+        "place": "Amsterdam",
+        "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "180",
+      "weight": "72",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/531.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 547,
+          "name": "Girona",
+          "logo": "https://media.api-sports.io/football/teams/547.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 35,
+          "lineups": 35,
+          "minutes": 2978,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.070588",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 12,
+          "on": 6
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 2,
+          "saves": null
+        },
+        "passes": {
+          "total": 2523,
+          "key": 17,
+          "accuracy": 67
+        },
+        "tackles": {
+          "total": 47,
+          "blocks": 19,
+          "interceptions": 21
+        },
+        "duels": {
+          "total": 195,
+          "won": 115
+        },
+        "dribbles": {
+          "attempts": 25,
+          "success": 17,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 12,
+          "committed": 19
+        },
+        "cards": {
+          "yellow": 6,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 536,
+      "name": "D. Sinkgraven",
+      "firstname": "Daley",
+      "lastname": "Sinkgraven",
+      "age": 30,
+      "birth": {
+        "date": "1995-07-04",
+        "place": "Assen",
+        "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "179",
+      "weight": "67",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/536.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 534,
+          "name": "Las Palmas",
+          "logo": "https://media.api-sports.io/football/teams/534.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 28,
+          "lineups": 17,
+          "minutes": 377,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.466666",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 11,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 235,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 11,
+          "blocks": 3,
+          "interceptions": 6
+        },
+        "duels": {
+          "total": 37,
+          "won": 21
+        },
+        "dribbles": {
+          "attempts": 3,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 5,
+          "committed": 4
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 538,
+      "name": "F. de Jong",
+      "firstname": "Frenkie",
+      "lastname": "de Jong",
+      "age": 28,
+      "birth": {
+        "date": "1997-05-12",
+        "place": "Arkel",
+        "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "182",
+      "weight": "75",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/538.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 529,
+          "name": "Barcelona",
+          "logo": "https://media.api-sports.io/football/teams/529.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 21,
+          "lineups": 21,
+          "minutes": 1637,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.395000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 5,
+          "on": 4
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 1639,
+          "key": 22,
+          "accuracy": 76
+        },
+        "tackles": {
+          "total": 43,
+          "blocks": 8,
+          "interceptions": 14
+        },
+        "duels": {
+          "total": 173,
+          "won": 101
+        },
+        "dribbles": {
+          "attempts": 21,
+          "success": 13,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 22,
+          "committed": 19
+        },
+        "cards": {
+          "yellow": 7,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 570,
+      "name": "F. Cervi",
+      "firstname": "Franco Emanuel",
+      "lastname": "Cervi",
+      "age": 32,
+      "birth": {
+        "date": "1994-05-26",
+        "place": "San Lorenzo",
+        "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "166",
+      "weight": "67",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/570.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 538,
+          "name": "Celta Vigo",
+          "logo": "https://media.api-sports.io/football/teams/538.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 17,
+          "lineups": 12,
+          "minutes": 562,
+          "number": null,
+          "position": "Forward",
+          "rating": "6.823529",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 5,
+          "on": 1
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 240,
+          "key": 10,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 25,
+          "blocks": null,
+          "interceptions": 9
+        },
+        "duels": {
+          "total": 83,
+          "won": 50
+        },
+        "dribbles": {
+          "attempts": 5,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 19,
+          "committed": 6
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 583,
+      "name": "João Félix",
+      "firstname": "João",
+      "lastname": "Félix Sequeira",
+      "age": 26,
+      "birth": {
+        "date": "1999-11-10",
+        "place": "Viseu",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "181",
+      "weight": "70",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/583.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Forward",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 2
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      },
+      {
+        "team": {
+          "id": 529,
+          "name": "Barcelona",
+          "logo": "https://media.api-sports.io/football/teams/529.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 30,
+          "lineups": 27,
+          "minutes": 1548,
+          "number": null,
+          "position": "Forward",
+          "rating": "6.986666",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 3,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 45,
+          "on": 25
+        },
+        "goals": {
+          "total": 7,
+          "conceded": 0,
+          "assists": 3,
+          "saves": null
+        },
+        "passes": {
+          "total": 628,
+          "key": 19,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 22,
+          "blocks": 1,
+          "interceptions": 10
+        },
+        "duels": {
+          "total": 237,
+          "won": 112
+        },
+        "dribbles": {
+          "attempts": 80,
+          "success": 29,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 54,
+          "committed": 21
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 608,
+      "name": "L. Boyé",
+      "firstname": "Lucas Ariel",
+      "lastname": "Boyé",
+      "age": 29,
+      "birth": {
+        "date": "1996-02-28",
+        "place": "San Gregorio",
+        "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "179",
+      "weight": "81",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/608.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 715,
+          "name": "Granada CF",
+          "logo": "https://media.api-sports.io/football/teams/715.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 31,
+          "lineups": 30,
+          "minutes": 2554,
+          "number": null,
+          "position": "Attacker",
+          "rating": "6.783870",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 1,
+          "out": 14,
+          "bench": 1
+        },
+        "shots": {
+          "total": 43,
+          "on": 15
+        },
+        "goals": {
+          "total": 6,
+          "conceded": 0,
+          "assists": 3,
+          "saves": null
+        },
+        "passes": {
+          "total": 608,
+          "key": 26,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 50,
+          "blocks": 5,
+          "interceptions": 10
+        },
+        "duels": {
+          "total": 527,
+          "won": 204
+        },
+        "dribbles": {
+          "attempts": 128,
+          "success": 53,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 43,
+          "committed": 72
+        },
+        "cards": {
+          "yellow": 8,
+          "yellowred": 0,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      },
+      {
+        "team": {
+          "id": 542,
+          "name": "Alaves",
+          "logo": "https://media.api-sports.io/football/teams/542.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 31,
+          "lineups": 30,
+          "minutes": 2555,
+          "number": null,
+          "position": "Attacker",
+          "rating": "6.783870",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 1,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 43,
+          "on": 15
+        },
+        "goals": {
+          "total": 6,
+          "conceded": 0,
+          "assists": 3,
+          "saves": null
+        },
+        "passes": {
+          "total": 608,
+          "key": 26,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 50,
+          "blocks": 5,
+          "interceptions": 10
+        },
+        "duels": {
+          "total": 527,
+          "won": 204
+        },
+        "dribbles": {
+          "attempts": 128,
+          "success": 53,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 43,
+          "committed": 72
+        },
+        "cards": {
+          "yellow": 8,
+          "yellowred": null,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 614,
+      "name": "C. Bravo",
+      "firstname": "Claudio Andrés",
+      "lastname": "Bravo Muñoz",
+      "age": 42,
+      "birth": {
+        "date": "1983-04-13",
+        "place": "Buin",
+        "country": "Chile"
+      },
+      "nationality": "Chile",
+      "height": "184",
+      "weight": "84",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/614.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 543,
+          "name": "Real Betis",
+          "logo": "https://media.api-sports.io/football/teams/543.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 7,
+          "lineups": 7,
+          "minutes": 630,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "7.100000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 13
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 5,
+          "assists": null,
+          "saves": 16
+        },
+        "passes": {
+          "total": 199,
+          "key": 1,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 4,
+          "won": 3
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 1,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 0
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 619,
+      "name": "Eric García",
+      "firstname": "Eric",
+      "lastname": "García Martret",
+      "age": 24,
+      "birth": {
+        "date": "2001-01-09",
+        "place": "Martorell",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "180",
+      "weight": "77",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/619.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 547,
+          "name": "Girona",
+          "logo": "https://media.api-sports.io/football/teams/547.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 30,
+          "lineups": 30,
+          "minutes": 2641,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.700000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 4,
+          "bench": 1
+        },
+        "shots": {
+          "total": 1,
+          "on": null
+        },
+        "goals": {
+          "total": 5,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 44,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": 1,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 2,
+          "won": 1
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": 1
+        },
+        "cards": {
+          "yellow": 4,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      },
+      {
+        "team": {
+          "id": 529,
+          "name": "Barcelona",
+          "logo": "https://media.api-sports.io/football/teams/529.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 2,
+          "lineups": 0,
+          "minutes": 55,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.700000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": 0,
+          "bench": 3
+        },
+        "shots": {
+          "total": 1,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 44,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": 1,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 2,
+          "won": 1
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": 1
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 633,
+      "name": "İ. Gündoğan",
+      "firstname": "İlkay",
+      "lastname": "Gündoğan",
+      "age": 35,
+      "birth": {
+        "date": "1990-10-24",
+        "place": "Gelsenkirchen",
+        "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "180",
+      "weight": "80",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/633.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 529,
+          "name": "Barcelona",
+          "logo": "https://media.api-sports.io/football/teams/529.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 36,
+          "lineups": 35,
+          "minutes": 2997,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.458333",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 1,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 32,
+          "on": 17
+        },
+        "goals": {
+          "total": 5,
+          "conceded": 0,
+          "assists": 9,
+          "saves": null
+        },
+        "passes": {
+          "total": 2336,
+          "key": 97,
+          "accuracy": 58
+        },
+        "tackles": {
+          "total": 31,
+          "blocks": 4,
+          "interceptions": 21
+        },
+        "duels": {
+          "total": 223,
+          "won": 114
+        },
+        "dribbles": {
+          "attempts": 54,
+          "success": 34,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 42,
+          "committed": 16
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 1,
+          "missed": 1,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 634,
+      "name": "David Silva",
+      "firstname": "David Josué",
+      "lastname": "Jiménez Silva",
+      "age": 37,
+      "birth": {
+        "date": "1986-01-08",
+        "place": "Arguineguín",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "170 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/634.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 548,
+          "name": "Real Sociedad",
+          "logo": "https://media.api-sports.io/football/teams/548.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 653,
+      "name": "F. Mendy",
+      "firstname": "Ferland Sinna",
+      "lastname": "Mendy",
+      "age": 30,
+      "birth": {
+        "date": "1995-06-08",
+        "place": "Meulan-En-Yvelines",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "180",
+      "weight": "73",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/653.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 541,
+          "name": "Real Madrid",
+          "logo": "https://media.api-sports.io/football/teams/541.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 28,
+          "lineups": 26,
+          "minutes": 1734,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.891304",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 3,
+          "on": 2
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 1134,
+          "key": 11,
+          "accuracy": 46
+        },
+        "tackles": {
+          "total": 15,
+          "blocks": 2,
+          "interceptions": 13
+        },
+        "duels": {
+          "total": 101,
+          "won": 49
+        },
+        "dribbles": {
+          "attempts": 26,
+          "success": 13,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 15,
+          "committed": 17
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 667,
+      "name": "M. Depay",
+      "firstname": "Memphis",
+      "lastname": "Depay",
+      "age": 31,
+      "birth": {
+        "date": "1994-02-13",
+        "place": "Moordrecht",
+        "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "178",
+      "weight": "78",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/667.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 530,
+          "name": "Atletico Madrid",
+          "logo": "https://media.api-sports.io/football/teams/530.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 26,
+          "lineups": 17,
+          "minutes": 894,
+          "number": null,
+          "position": "Attacker",
+          "rating": "6.781818",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 9,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 31,
+          "on": 15
+        },
+        "goals": {
+          "total": 5,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 246,
+          "key": 13,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 5,
+          "blocks": null,
+          "interceptions": 1
+        },
+        "duels": {
+          "total": 109,
+          "won": 43
+        },
+        "dribbles": {
+          "attempts": 35,
+          "success": 18,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 16,
+          "committed": 14
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 668,
+      "name": "N. Fekir",
+      "firstname": "Nabil",
+      "lastname": "Fekir",
+      "age": 32,
+      "birth": {
+        "date": "1993-07-18",
+        "place": "Lyon",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "173 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/668.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 543,
+          "name": "Real Betis",
+          "logo": "https://media.api-sports.io/football/teams/543.png"
+        },
+        "league": {
+          "id": 140,
+          "name": "La Liga",
+          "country": "Spain",
+          "logo": "https://media.api-sports.io/football/leagues/140.png",
+          "flag": "https://media.api-sports.io/flags/es.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 19,
+          "lineups": 10,
+          "minutes": 1047,
+          "number": null,
+          "position": "Attacker",
+          "rating": "7.144444",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 9,
+          "out": 6,
+          "bench": 11
+        },
+        "shots": {
+          "total": 18,
+          "on": 9
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 2,
+          "saves": null
+        },
+        "passes": {
+          "total": 548,
+          "key": 30,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 15,
+          "blocks": null,
+          "interceptions": 7
+        },
+        "duels": {
+          "total": 144,
+          "won": 81
+        },
+        "dribbles": {
+          "attempts": 27,
+          "success": 21,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 35,
+          "committed": 22
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  }
+]

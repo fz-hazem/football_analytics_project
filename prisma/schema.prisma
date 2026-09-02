@@ -1,0 +1,109 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+  url      = "file:../data/football_analytics.db"
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by Prisma Client.
+model leagues {
+  league_id         Int?                @id
+  name              String?
+  country           String?
+  category          String?
+  player_statistics player_statistics[]
+
+  @@ignore
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by Prisma Client.
+model player_similarities {
+  player_id                                              Int?
+  similar_player_id                                      Int?
+  rank_order                                             Int?
+  similarity_score                                       Float?
+  players_player_similarities_similar_player_idToplayers players? @relation("player_similarities_similar_player_idToplayers", fields: [similar_player_id], references: [player_id], onDelete: NoAction, onUpdate: NoAction)
+  players_player_similarities_player_idToplayers         players? @relation("player_similarities_player_idToplayers", fields: [player_id], references: [player_id], onDelete: NoAction, onUpdate: NoAction)
+
+  @@id([player_id, rank_order])
+  @@ignore
+}
+
+model player_statistics {
+  stat_id                   Int      @id @default(autoincrement())
+  player_id                 Int?
+  team_id                   Int?
+  league_id                 Int?
+  season                    Int?
+  appearances               Int?
+  starts                    Int?
+  minutes_played            Int?
+  rating                    Float?
+  goals                     Int?
+  assists                   Int?
+  shots                     Int?
+  shots_on_target           Int?
+  key_passes                Int?
+  passes_total              Int?
+  dribbles_succ             Int?
+  tackles                   Int?
+  interceptions             Int?
+  blocks                    Int?
+  duels_won                 Int?
+  fouls_drawn               Int?
+  fouls_committed           Int?
+  cards                     Int?
+  goals_per90               Float?
+  assists_per90             Float?
+  shots_per90               Float?
+  shots_on_target_per90     Float?
+  goal_contributions_per90  Float?
+  key_passes_per90          Float?
+  successful_dribbles_per90 Float?
+  tackles_per90             Float?
+  interceptions_per90       Float?
+  blocks_per90              Float?
+  defensive_actions_per90   Float?
+  duels_won_per90           Float?
+  fouls_drawn_per90         Float?
+  fouls_committed_per90     Float?
+  cards_per90               Float?
+  shot_accuracy             Float?
+  goal_conversion           Float?
+  key_pass_rate             Float?
+  pass_accuracy             Float?
+  duel_success_rate         Float?
+  dribble_success_rate      Float?
+  leagues                   leagues? @relation(fields: [league_id], references: [league_id], onDelete: NoAction, onUpdate: NoAction) @ignore
+  teams                     teams?   @relation(fields: [team_id], references: [team_id], onDelete: NoAction, onUpdate: NoAction) @ignore
+  players                   players? @relation(fields: [player_id], references: [player_id], onDelete: NoAction, onUpdate: NoAction) @ignore
+
+  @@unique([player_id, team_id, season], map: "sqlite_autoindex_player_statistics_1")
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by Prisma Client.
+model players {
+  player_id                                                          Int?                  @id
+  name                                                               String?
+  age                                                                Int?
+  position_group                                                     String?
+  detailed_position                                                  String?
+  photo_url                                                          String?
+  player_similarities_player_similarities_similar_player_idToplayers player_similarities[] @relation("player_similarities_similar_player_idToplayers")
+  player_similarities_player_similarities_player_idToplayers         player_similarities[] @relation("player_similarities_player_idToplayers")
+  player_statistics                                                  player_statistics[]
+
+  @@ignore
+}
+
+/// The underlying table does not contain a valid unique identifier and can therefore currently not be handled by Prisma Client.
+model teams {
+  team_id           Int?                @id
+  name              String?
+  logo_url          String?
+  player_statistics player_statistics[]
+
+  @@ignore
+}

@@ -1,0 +1,5776 @@
+[
+  {
+    "player": {
+      "id": 6,
+      "name": "L. Balerdi",
+      "firstname": "Leonardo Julián",
+      "lastname": "Balerdi Rosa",
+      "age": 26,
+      "birth": {
+        "date": "1999-01-26",
+        "place": "Villa Mercedes",
+        "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "187",
+      "weight": "76",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/6.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 27,
+          "lineups": 26,
+          "minutes": 2275,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.181481",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 1,
+          "out": 4,
+          "bench": 4
+        },
+        "shots": {
+          "total": 13,
+          "on": 4
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 1618,
+          "key": 5,
+          "accuracy": 51
+        },
+        "tackles": {
+          "total": 79,
+          "blocks": 15,
+          "interceptions": 51
+        },
+        "duels": {
+          "total": 262,
+          "won": 168
+        },
+        "dribbles": {
+          "attempts": 15,
+          "success": 9,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 23,
+          "committed": 25
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": 1,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 7,
+      "name": "A. Diallo",
+      "firstname": "Abdou-Lakhad",
+      "lastname": "Diallo",
+      "age": 29,
+      "birth": {
+        "date": "1996-05-04",
+        "place": "Tours",
+        "country": "France"
+      },
+      "nationality": "Senegal",
+      "height": "187",
+      "weight": "87",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/7.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 9,
+      "name": "A. Hakimi",
+      "firstname": "Achraf",
+      "lastname": "Hakimi Mouh",
+      "age": 27,
+      "birth": {
+        "date": "1998-11-04",
+        "place": "Madrid",
+        "country": "Spain"
+      },
+      "nationality": "Morocco",
+      "height": "181",
+      "weight": "73",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/9.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 25,
+          "lineups": 20,
+          "minutes": 1931,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.324000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": 3,
+          "bench": 8
+        },
+        "shots": {
+          "total": 28,
+          "on": 12
+        },
+        "goals": {
+          "total": 4,
+          "conceded": 0,
+          "assists": 5,
+          "saves": null
+        },
+        "passes": {
+          "total": 1738,
+          "key": 43,
+          "accuracy": 61
+        },
+        "tackles": {
+          "total": 29,
+          "blocks": 4,
+          "interceptions": 12
+        },
+        "duels": {
+          "total": 205,
+          "won": 91
+        },
+        "dribbles": {
+          "attempts": 57,
+          "success": 27,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 26,
+          "committed": 22
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 33,
+      "name": "L. Hernández",
+      "firstname": "Lucas François Bernard",
+      "lastname": "Hernández",
+      "age": 29,
+      "birth": {
+        "date": "1996-02-14",
+        "place": "Marseille",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "184",
+      "weight": "79",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/33.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 27,
+          "lineups": 23,
+          "minutes": 1916,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.114814",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": 11,
+          "bench": 5
+        },
+        "shots": {
+          "total": 6,
+          "on": 2
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 1708,
+          "key": 12,
+          "accuracy": 57
+        },
+        "tackles": {
+          "total": 52,
+          "blocks": 5,
+          "interceptions": 27
+        },
+        "duels": {
+          "total": 184,
+          "won": 114
+        },
+        "dribbles": {
+          "attempts": 14,
+          "success": 9,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 30,
+          "committed": 23
+        },
+        "cards": {
+          "yellow": 6,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 68,
+      "name": "Clinton Mata",
+      "firstname": "Clinton",
+      "lastname": "Mukoni Mata Pedro Lourenço",
+      "age": 33,
+      "birth": {
+        "date": "1992-11-07",
+        "place": "Verviers",
+        "country": "Belgium"
+      },
+      "nationality": "Angola",
+      "height": "180",
+      "weight": "72",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/68.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 80,
+          "name": "Lyon",
+          "logo": "https://media.api-sports.io/football/teams/80.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 28,
+          "lineups": 25,
+          "minutes": 2221,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.928571",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 3,
+          "out": 4,
+          "bench": 6
+        },
+        "shots": {
+          "total": 7,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 3,
+          "saves": null
+        },
+        "passes": {
+          "total": 1311,
+          "key": 14,
+          "accuracy": 40
+        },
+        "tackles": {
+          "total": 43,
+          "blocks": 16,
+          "interceptions": 40
+        },
+        "duels": {
+          "total": 231,
+          "won": 130
+        },
+        "dribbles": {
+          "attempts": 34,
+          "success": 23,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 37,
+          "committed": 29
+        },
+        "cards": {
+          "yellow": 6,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 81,
+      "name": "K. Diatta",
+      "firstname": "Krépin",
+      "lastname": "Diatta",
+      "age": 26,
+      "birth": {
+        "date": "1999-02-25",
+        "place": "Dakar",
+        "country": "Senegal"
+      },
+      "nationality": "Senegal",
+      "height": "175",
+      "weight": "68",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/81.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 91,
+          "name": "Monaco",
+          "logo": "https://media.api-sports.io/football/teams/91.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 26,
+          "lineups": 12,
+          "minutes": 1195,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.815384",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 14,
+          "out": 3,
+          "bench": 15
+        },
+        "shots": {
+          "total": 6,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 2,
+          "saves": null
+        },
+        "passes": {
+          "total": 616,
+          "key": 23,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 37,
+          "blocks": 2,
+          "interceptions": 16
+        },
+        "duels": {
+          "total": 212,
+          "won": 120
+        },
+        "dribbles": {
+          "attempts": 43,
+          "success": 29,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 24,
+          "committed": 18
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 99,
+      "name": "R. Pierre-Gabriel",
+      "firstname": "Ronaël Julien",
+      "lastname": "Pierre-Gabriel",
+      "age": 27,
+      "birth": {
+        "date": "1998-06-13",
+        "place": "Paris",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "177",
+      "weight": "76",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/99.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 83,
+          "name": "Nantes",
+          "logo": "https://media.api-sports.io/football/teams/83.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 12,
+          "lineups": 6,
+          "minutes": 594,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.708333",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 6,
+          "out": 2,
+          "bench": 9
+        },
+        "shots": {
+          "total": 2,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 234,
+          "key": 2,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 15,
+          "blocks": 4,
+          "interceptions": 8
+        },
+        "duels": {
+          "total": 50,
+          "won": 32
+        },
+        "dribbles": {
+          "attempts": 8,
+          "success": 4,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 4,
+          "committed": 4
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 103,
+      "name": "J. Aholou",
+      "firstname": "Jean-Eudes Pascal Armand",
+      "lastname": "Aholou",
+      "age": 31,
+      "birth": {
+        "date": "1994-03-20",
+        "place": "Yopougnon",
+        "country": "Côte d'Ivoire"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "187",
+      "weight": "75",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/103.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 95,
+          "name": "Strasbourg",
+          "logo": "https://media.api-sports.io/football/teams/95.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 6
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 107,
+      "name": "S. Diop",
+      "firstname": "Sofiane",
+      "lastname": "Diop",
+      "age": 25,
+      "birth": {
+        "date": "2000-06-09",
+        "place": "Tours",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "175",
+      "weight": "65",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/107.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 84,
+          "name": "Nice",
+          "logo": "https://media.api-sports.io/football/teams/84.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 10,
+          "lineups": 6,
+          "minutes": 501,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.680000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": 6,
+          "bench": 4
+        },
+        "shots": {
+          "total": 12,
+          "on": 6
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 162,
+          "key": 8,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 8,
+          "blocks": null,
+          "interceptions": 3
+        },
+        "duels": {
+          "total": 70,
+          "won": 27
+        },
+        "dribbles": {
+          "attempts": 22,
+          "success": 6,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 12,
+          "committed": 9
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 109,
+      "name": "A. Golovin",
+      "firstname": "Aleksandr",
+      "lastname": "Golovin",
+      "age": 29,
+      "birth": {
+        "date": "1996-05-30",
+        "place": "Kaltan",
+        "country": "Russia"
+      },
+      "nationality": "Russia",
+      "height": "178",
+      "weight": "69",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/109.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 91,
+          "name": "Monaco",
+          "logo": "https://media.api-sports.io/football/teams/91.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 25,
+          "lineups": 25,
+          "minutes": 2155,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.644000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 8,
+          "bench": 0
+        },
+        "shots": {
+          "total": 34,
+          "on": 19
+        },
+        "goals": {
+          "total": 6,
+          "conceded": 0,
+          "assists": 6,
+          "saves": null
+        },
+        "passes": {
+          "total": 1102,
+          "key": 50,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 42,
+          "blocks": 3,
+          "interceptions": 21
+        },
+        "duels": {
+          "total": 222,
+          "won": 114
+        },
+        "dribbles": {
+          "attempts": 41,
+          "success": 24,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 36,
+          "committed": 25
+        },
+        "cards": {
+          "yellow": 9,
+          "yellowred": 0,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 112,
+      "name": "K. N&apos;Doram",
+      "firstname": "Kévin",
+      "lastname": "N'Doram",
+      "age": 29,
+      "birth": {
+        "date": "1996-01-22",
+        "place": "Nantes",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "184",
+      "weight": "76",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/112.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 112,
+          "name": "Metz",
+          "logo": "https://media.api-sports.io/football/teams/112.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 23,
+          "lineups": 18,
+          "minutes": 1604,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.708000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": 5,
+          "bench": 7
+        },
+        "shots": {
+          "total": 4,
+          "on": 1
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 2,
+          "saves": null
+        },
+        "passes": {
+          "total": 692,
+          "key": 8,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 36,
+          "blocks": 11,
+          "interceptions": 29
+        },
+        "duels": {
+          "total": 189,
+          "won": 100
+        },
+        "dribbles": {
+          "attempts": 12,
+          "success": 5,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 28,
+          "committed": 31
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 116,
+      "name": "K. Thuram",
+      "firstname": "Khéphren",
+      "lastname": "Thuram-Ulien",
+      "age": 24,
+      "birth": {
+        "date": "2001-03-26",
+        "place": "Reggio Emilia",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "192",
+      "weight": "80",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/116.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 84,
+          "name": "Nice",
+          "logo": "https://media.api-sports.io/football/teams/84.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 27,
+          "lineups": 25,
+          "minutes": 2115,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.048148",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": 9,
+          "bench": 2
+        },
+        "shots": {
+          "total": 29,
+          "on": 11
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 1106,
+          "key": 31,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 41,
+          "blocks": 10,
+          "interceptions": 18
+        },
+        "duels": {
+          "total": 235,
+          "won": 117
+        },
+        "dribbles": {
+          "attempts": 60,
+          "success": 35,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 22,
+          "committed": 34
+        },
+        "cards": {
+          "yellow": 7,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 118,
+      "name": "Gelson Martins",
+      "firstname": "Gelson Dany",
+      "lastname": "Batalha Martins",
+      "age": 31,
+      "birth": {
+        "date": "1995-05-11",
+        "place": "Praia",
+        "country": "Cape Verde"
+      },
+      "nationality": "Portugal",
+      "height": "173",
+      "weight": "72",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/118.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 91,
+          "name": "Monaco",
+          "logo": "https://media.api-sports.io/football/teams/91.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Forward",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 138,
+      "name": "J. Todibo",
+      "firstname": "Jean-Clair Dimitri Roger",
+      "lastname": "Todibo",
+      "age": 26,
+      "birth": {
+        "date": "1999-12-30",
+        "place": "Cayenne",
+        "country": "French Guiana"
+      },
+      "nationality": "France",
+      "height": "192",
+      "weight": "88",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/138.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 84,
+          "name": "Nice",
+          "logo": "https://media.api-sports.io/football/teams/84.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 30,
+          "lineups": 30,
+          "minutes": 2654,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.083333",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 5,
+          "on": 1
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 2,
+          "saves": null
+        },
+        "passes": {
+          "total": 2461,
+          "key": 9,
+          "accuracy": 73
+        },
+        "tackles": {
+          "total": 58,
+          "blocks": 15,
+          "interceptions": 38
+        },
+        "duels": {
+          "total": 222,
+          "won": 131
+        },
+        "dribbles": {
+          "attempts": 25,
+          "success": 16,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 18,
+          "committed": 25
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": null,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 139,
+      "name": "S. Umtiti",
+      "firstname": "Samuel Yves",
+      "lastname": "Umtiti",
+      "age": 32,
+      "birth": {
+        "date": "1993-11-14",
+        "place": "Yaoundé",
+        "country": "Cameroon"
+      },
+      "nationality": "France",
+      "height": "182 cm",
+      "weight": "75 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/139.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 6,
+          "lineups": 2,
+          "minutes": 183,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.340000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": 1,
+          "bench": 14
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 165,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 1,
+          "blocks": null,
+          "interceptions": 2
+        },
+        "duels": {
+          "total": 11,
+          "won": 3
+        },
+        "dribbles": {
+          "attempts": 1,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 1,
+          "committed": 3
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 153,
+      "name": "O. Dembélé",
+      "firstname": "Masour Ousmane",
+      "lastname": "Dembélé",
+      "age": 28,
+      "birth": {
+        "date": "1997-05-15",
+        "place": "Vernon",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "178",
+      "weight": "67",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/153.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 26,
+          "lineups": 17,
+          "minutes": 1510,
+          "number": null,
+          "position": "Attacker",
+          "rating": "7.326923",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 9,
+          "out": 13,
+          "bench": 11
+        },
+        "shots": {
+          "total": 32,
+          "on": 14
+        },
+        "goals": {
+          "total": 3,
+          "conceded": 0,
+          "assists": 8,
+          "saves": null
+        },
+        "passes": {
+          "total": 936,
+          "key": 59,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 19,
+          "blocks": null,
+          "interceptions": 5
+        },
+        "duels": {
+          "total": 225,
+          "won": 114
+        },
+        "dribbles": {
+          "attempts": 132,
+          "success": 65,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 27,
+          "committed": 7
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 179,
+      "name": "M. Sissoko",
+      "firstname": "Moussa",
+      "lastname": "Sissoko",
+      "age": 36,
+      "birth": {
+        "date": "1989-08-16",
+        "place": "Le Blanc-Mesnil",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "187",
+      "weight": "83",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/179.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 83,
+          "name": "Nantes",
+          "logo": "https://media.api-sports.io/football/teams/83.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 26,
+          "lineups": 21,
+          "minutes": 1823,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.615384",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": 8,
+          "bench": 11
+        },
+        "shots": {
+          "total": 7,
+          "on": 3
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 650,
+          "key": 14,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 27,
+          "blocks": 2,
+          "interceptions": 12
+        },
+        "duels": {
+          "total": 147,
+          "won": 54
+        },
+        "dribbles": {
+          "attempts": 21,
+          "success": 10,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 3,
+          "committed": 40
+        },
+        "cards": {
+          "yellow": 7,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 198,
+      "name": "M. Škriniar",
+      "firstname": "Milan",
+      "lastname": "Škriniar",
+      "age": 30,
+      "birth": {
+        "date": "1995-02-11",
+        "place": "Žiar nad Hronom",
+        "country": "Slovakia"
+      },
+      "nationality": "Slovakia",
+      "height": "188",
+      "weight": "83",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/198.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 24,
+          "lineups": 21,
+          "minutes": 1624,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.895833",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 3,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 2,
+          "on": 1
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 1812,
+          "key": 1,
+          "accuracy": 72
+        },
+        "tackles": {
+          "total": 24,
+          "blocks": 10,
+          "interceptions": 12
+        },
+        "duels": {
+          "total": 110,
+          "won": 61
+        },
+        "dribbles": {
+          "attempts": 2,
+          "success": 2,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 10,
+          "committed": 14
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 216,
+      "name": "M. Icardi",
+      "firstname": "Mauro Emanuel",
+      "lastname": "Icardi Rivero",
+      "age": 32,
+      "birth": {
+        "date": "1993-02-19",
+        "place": "Rosario",
+        "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "181",
+      "weight": "75",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/216.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Forward",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 240,
+      "name": "P. Rosario",
+      "firstname": "Pablo Paulino",
+      "lastname": "Rosario",
+      "age": 29,
+      "birth": {
+        "date": "1997-01-07",
+        "place": "Amsterdam",
+        "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "188",
+      "weight": "73",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/240.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 84,
+          "name": "Nice",
+          "logo": "https://media.api-sports.io/football/teams/84.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 30,
+          "lineups": 23,
+          "minutes": 2020,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.933333",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 7,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 14,
+          "on": 3
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 1128,
+          "key": 17,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 37,
+          "blocks": 13,
+          "interceptions": 29
+        },
+        "duels": {
+          "total": 174,
+          "won": 102
+        },
+        "dribbles": {
+          "attempts": 19,
+          "success": 11,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 19,
+          "committed": 18
+        },
+        "cards": {
+          "yellow": 4,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 243,
+      "name": "Z. Aboukhlal",
+      "firstname": "Zakaria",
+      "lastname": "Aboukhlal",
+      "age": 25,
+      "birth": {
+        "date": "2000-02-18",
+        "place": "Rotterdam",
+        "country": "Netherlands"
+      },
+      "nationality": "Morocco",
+      "height": "179",
+      "weight": "74",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/243.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 96,
+          "name": "Toulouse",
+          "logo": "https://media.api-sports.io/football/teams/96.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 13,
+          "lineups": 9,
+          "minutes": 758,
+          "number": null,
+          "position": "Attacker",
+          "rating": "6.616666",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": 8,
+          "bench": 4
+        },
+        "shots": {
+          "total": 17,
+          "on": 8
+        },
+        "goals": {
+          "total": 3,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 182,
+          "key": 5,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 9,
+          "blocks": 1,
+          "interceptions": 1
+        },
+        "duels": {
+          "total": 105,
+          "won": 38
+        },
+        "dribbles": {
+          "attempts": 30,
+          "success": 8,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 15,
+          "committed": 17
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 1,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 257,
+      "name": "Marquinhos",
+      "firstname": "Marcos",
+      "lastname": "Aoás Corrêa",
+      "age": 31,
+      "birth": {
+        "date": "1994-05-14",
+        "place": "São Paulo",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "183",
+      "weight": "75",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/257.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 21,
+          "lineups": 18,
+          "minutes": 1539,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.247619",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 3,
+          "out": 6,
+          "bench": 6
+        },
+        "shots": {
+          "total": 1,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 1783,
+          "key": 9,
+          "accuracy": 80
+        },
+        "tackles": {
+          "total": 19,
+          "blocks": 19,
+          "interceptions": 17
+        },
+        "duels": {
+          "total": 80,
+          "won": 47
+        },
+        "dribbles": {
+          "attempts": 1,
+          "success": 1,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 3,
+          "committed": 3
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 258,
+      "name": "Juan Bernat",
+      "firstname": "Juan",
+      "lastname": "Bernat Velasco",
+      "age": 33,
+      "birth": {
+        "date": "1993-03-01",
+        "place": "Valencia",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "177 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/258.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 260,
+      "name": "C. Dagba",
+      "firstname": "Colin",
+      "lastname": "Obasanya Dagba",
+      "age": 27,
+      "birth": {
+        "date": "1998-09-09",
+        "place": "Béthune",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "170",
+      "weight": "62",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/260.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 261,
+      "name": "T. Kehrer",
+      "firstname": "Jan Thilo",
+      "lastname": "Kehrer",
+      "age": 29,
+      "birth": {
+        "date": "1996-09-21",
+        "place": "Tübingen",
+        "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "186",
+      "weight": "76",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/261.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 91,
+          "name": "Monaco",
+          "logo": "https://media.api-sports.io/football/teams/91.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 15,
+          "lineups": 15,
+          "minutes": 1324,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.160000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": 11,
+          "on": 4
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 940,
+          "key": 5,
+          "accuracy": 55
+        },
+        "tackles": {
+          "total": 31,
+          "blocks": 6,
+          "interceptions": 30
+        },
+        "duels": {
+          "total": 116,
+          "won": 61
+        },
+        "dribbles": {
+          "attempts": 3,
+          "success": 3,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 5,
+          "committed": 17
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": 1,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 262,
+      "name": "P. Kimpembe",
+      "firstname": "Presnel",
+      "lastname": "Kimpembe",
+      "age": 30,
+      "birth": {
+        "date": "1995-08-13",
+        "place": "Beaumont-sur-Oise",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "182",
+      "weight": "79",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/262.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 263,
+      "name": "L. Kurzawa",
+      "firstname": "Layvin Marc",
+      "lastname": "Kurzawa",
+      "age": 33,
+      "birth": {
+        "date": "1992-09-04",
+        "place": "Fréjus",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "182 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/263.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 1,
+          "lineups": 0,
+          "minutes": 8,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.300000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 1,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 12,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 1,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": 1,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 267,
+      "name": "J. Draxler",
+      "firstname": "Julian",
+      "lastname": "Draxler",
+      "age": 32,
+      "birth": {
+        "date": "1993-09-20",
+        "place": "Gladbeck",
+        "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "185",
+      "weight": "79",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/267.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Forward",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 271,
+      "name": "L. Paredes",
+      "firstname": "Leandro Daniel",
+      "lastname": "Paredes",
+      "age": 31,
+      "birth": {
+        "date": "1994-06-29",
+        "place": "San Justo",
+        "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "180",
+      "weight": "75",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/271.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 273,
+      "name": "M. Verratti",
+      "firstname": "Marco",
+      "lastname": "Verratti",
+      "age": 33,
+      "birth": {
+        "date": "1992-11-05",
+        "place": "Pescara",
+        "country": "Italy"
+      },
+      "nationality": "Italy",
+      "height": "165",
+      "weight": "60",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/273.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 276,
+      "name": "Neymar",
+      "firstname": "Neymar",
+      "lastname": "da Silva Santos Júnior",
+      "age": 33,
+      "birth": {
+        "date": "1992-02-05",
+        "place": "Mogi das Cruzes",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "175",
+      "weight": "68",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/276.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 278,
+      "name": "Kylian Mbappé",
+      "firstname": "Kylian",
+      "lastname": "Mbappé Lottin",
+      "age": 27,
+      "birth": {
+        "date": "1998-12-20",
+        "place": "Paris",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "178",
+      "weight": "75",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/278.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 29,
+          "lineups": 24,
+          "minutes": 2159,
+          "number": null,
+          "position": "Attacker",
+          "rating": "7.917241",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": 5,
+          "bench": 7
+        },
+        "shots": {
+          "total": 91,
+          "on": 59
+        },
+        "goals": {
+          "total": 27,
+          "conceded": 0,
+          "assists": 7,
+          "saves": null
+        },
+        "passes": {
+          "total": 931,
+          "key": 40,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 4,
+          "blocks": null,
+          "interceptions": 2
+        },
+        "duels": {
+          "total": 224,
+          "won": 103
+        },
+        "dribbles": {
+          "attempts": 123,
+          "success": 61,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 38,
+          "committed": 19
+        },
+        "cards": {
+          "yellow": 4,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 6,
+          "missed": 2,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 287,
+      "name": "D. Lovren",
+      "firstname": "Dejan",
+      "lastname": "Lovren",
+      "age": 36,
+      "birth": {
+        "date": "1989-07-05",
+        "place": "Zenica",
+        "country": "Bosnia and Herzegovina"
+      },
+      "nationality": "Croatia",
+      "height": "188",
+      "weight": "84",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/287.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 80,
+          "name": "Lyon",
+          "logo": "https://media.api-sports.io/football/teams/80.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 10,
+          "lineups": 8,
+          "minutes": 720,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.744444",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": 3,
+          "bench": 12
+        },
+        "shots": {
+          "total": 6,
+          "on": 4
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 435,
+          "key": 1,
+          "accuracy": 41
+        },
+        "tackles": {
+          "total": 9,
+          "blocks": 5,
+          "interceptions": 12
+        },
+        "duels": {
+          "total": 62,
+          "won": 34
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 1,
+          "committed": 12
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": 0,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 300,
+      "name": "G. Wijnaldum",
+      "firstname": "Georginio Gregion Emile",
+      "lastname": "Wijnaldum",
+      "age": 35,
+      "birth": {
+        "date": "1990-11-11",
+        "place": "Rotterdam",
+        "country": "Netherlands"
+      },
+      "nationality": "Netherlands",
+      "height": "173",
+      "weight": "74",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/300.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 327,
+      "name": "A. Ounas",
+      "firstname": "Adam Mohamed",
+      "lastname": "Ounas",
+      "age": 29,
+      "birth": {
+        "date": "1996-11-11",
+        "place": "Chambray-lès-Tours",
+        "country": "France"
+      },
+      "nationality": "Algeria",
+      "height": "172 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/327.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 17,
+          "lineups": 3,
+          "minutes": 407,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.887500",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 14,
+          "out": 3,
+          "bench": 15
+        },
+        "shots": {
+          "total": 7,
+          "on": 4
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 169,
+          "key": 13,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 4,
+          "blocks": null,
+          "interceptions": 6
+        },
+        "duels": {
+          "total": 74,
+          "won": 38
+        },
+        "dribbles": {
+          "attempts": 22,
+          "success": 16,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 12,
+          "committed": 3
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 328,
+      "name": "Fabián Ruiz",
+      "firstname": "Fabián",
+      "lastname": "Ruiz Peña",
+      "age": 29,
+      "birth": {
+        "date": "1996-04-03",
+        "place": "Los Palacios y Villafranca",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "189",
+      "weight": "70",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/328.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 21,
+          "lineups": 14,
+          "minutes": 1194,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.061904",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 7,
+          "out": 6,
+          "bench": 14
+        },
+        "shots": {
+          "total": 12,
+          "on": 6
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 3,
+          "saves": null
+        },
+        "passes": {
+          "total": 859,
+          "key": 18,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 33,
+          "blocks": 2,
+          "interceptions": 11
+        },
+        "duels": {
+          "total": 102,
+          "won": 64
+        },
+        "dribbles": {
+          "attempts": 18,
+          "success": 16,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 11,
+          "committed": 6
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 375,
+      "name": "C. Mbemba",
+      "firstname": "Chancel",
+      "lastname": "Mbemba Mangulu",
+      "age": 32,
+      "birth": {
+        "date": "1994-08-08",
+        "place": "Kinshasa",
+        "country": "Congo DR"
+      },
+      "nationality": "Congo DR",
+      "height": "182",
+      "weight": "81",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/375.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 25,
+          "lineups": 25,
+          "minutes": 2209,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.048000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 17,
+          "on": 2
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": 2,
+          "saves": null
+        },
+        "passes": {
+          "total": 1361,
+          "key": 7,
+          "accuracy": 48
+        },
+        "tackles": {
+          "total": 33,
+          "blocks": 13,
+          "interceptions": 13
+        },
+        "duels": {
+          "total": 164,
+          "won": 89
+        },
+        "dribbles": {
+          "attempts": 11,
+          "success": 7,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 9,
+          "committed": 21
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 381,
+      "name": "Danilo Pereira",
+      "firstname": "Danilo Luís Hélio",
+      "lastname": "Pereira",
+      "age": 34,
+      "birth": {
+        "date": "1991-09-09",
+        "place": "Bissau",
+        "country": "Guinea-Bissau"
+      },
+      "nationality": "Portugal",
+      "height": "188",
+      "weight": "83",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/381.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 26,
+          "lineups": 24,
+          "minutes": 1999,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.153846",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 7,
+          "on": 1
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 2215,
+          "key": null,
+          "accuracy": 80
+        },
+        "tackles": {
+          "total": 22,
+          "blocks": 26,
+          "interceptions": 23
+        },
+        "duels": {
+          "total": 136,
+          "won": 82
+        },
+        "dribbles": {
+          "attempts": 5,
+          "success": 3,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 11,
+          "committed": 14
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 407,
+      "name": "B. Stambouli",
+      "firstname": "Benjamin Fernand Lucien",
+      "lastname": "François Stambouli",
+      "age": 35,
+      "birth": {
+        "date": "1990-08-13",
+        "place": "Marseille",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "180",
+      "weight": "82",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/407.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 93,
+          "name": "Reims",
+          "logo": "https://media.api-sports.io/football/teams/93.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 7,
+          "lineups": 5,
+          "minutes": 298,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.514285",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 128,
+          "key": 3,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 9,
+          "blocks": 1,
+          "interceptions": 2
+        },
+        "duels": {
+          "total": 34,
+          "won": 18
+        },
+        "dribbles": {
+          "attempts": 1,
+          "success": 1,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": 7
+        },
+        "cards": {
+          "yellow": 4,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 409,
+      "name": "N. Bentaleb",
+      "firstname": "Nabil",
+      "lastname": "Bentaleb",
+      "age": 31,
+      "birth": {
+        "date": "1994-11-24",
+        "place": "Lille",
+        "country": "France"
+      },
+      "nationality": "Algeria",
+      "height": "187",
+      "weight": "78",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/409.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 26,
+          "lineups": 23,
+          "minutes": 1968,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.076923",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 3,
+          "out": 4,
+          "bench": 3
+        },
+        "shots": {
+          "total": 7,
+          "on": 2
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 3,
+          "saves": null
+        },
+        "passes": {
+          "total": 1441,
+          "key": 14,
+          "accuracy": 49
+        },
+        "tackles": {
+          "total": 49,
+          "blocks": 12,
+          "interceptions": 37
+        },
+        "duels": {
+          "total": 182,
+          "won": 105
+        },
+        "dribbles": {
+          "attempts": 18,
+          "success": 14,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 18,
+          "committed": 23
+        },
+        "cards": {
+          "yellow": 7,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 412,
+      "name": "A. Harit",
+      "firstname": "Amine",
+      "lastname": "Harit",
+      "age": 28,
+      "birth": {
+        "date": "1997-06-18",
+        "place": "Pontoise",
+        "country": "France"
+      },
+      "nationality": "Morocco",
+      "height": "180",
+      "weight": "67",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/412.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 28,
+          "lineups": 25,
+          "minutes": 1838,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.071428",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 3,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 24,
+          "on": 8
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 2,
+          "saves": null
+        },
+        "passes": {
+          "total": 905,
+          "key": 39,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 28,
+          "blocks": 4,
+          "interceptions": 12
+        },
+        "duels": {
+          "total": 244,
+          "won": 122
+        },
+        "dribbles": {
+          "attempts": 66,
+          "success": 39,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 51,
+          "committed": 19
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 421,
+      "name": "B. Embolo",
+      "firstname": "Breel Donald",
+      "lastname": "Embolo",
+      "age": 28,
+      "birth": {
+        "date": "1997-02-14",
+        "place": "Yaoundé",
+        "country": "Cameroon"
+      },
+      "nationality": "Switzerland",
+      "height": "187",
+      "weight": "84",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/421.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 91,
+          "name": "Monaco",
+          "logo": "https://media.api-sports.io/football/teams/91.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 5,
+          "lineups": 2,
+          "minutes": 181,
+          "number": null,
+          "position": "Attacker",
+          "rating": "6.860000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 3,
+          "out": 2,
+          "bench": 5
+        },
+        "shots": {
+          "total": 4,
+          "on": 3
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 45,
+          "key": 3,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 3,
+          "blocks": null,
+          "interceptions": 1
+        },
+        "duels": {
+          "total": 39,
+          "won": 15
+        },
+        "dribbles": {
+          "attempts": 7,
+          "success": 4,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 7,
+          "committed": 3
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 499,
+      "name": "J. Boateng",
+      "firstname": "Jérôme Agyenim",
+      "lastname": "Boateng",
+      "age": 37,
+      "birth": {
+        "date": "1988-09-03",
+        "place": "Berlin",
+        "country": "Germany"
+      },
+      "nationality": "Germany",
+      "height": "192",
+      "weight": "90",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/499.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 80,
+          "name": "Lyon",
+          "logo": "https://media.api-sports.io/football/teams/80.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 513,
+      "name": "Renato Sanches",
+      "firstname": "Renato Júnior",
+      "lastname": "Luz Sanches",
+      "age": 28,
+      "birth": {
+        "date": "1997-08-18",
+        "place": "Lisboa",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "176",
+      "weight": "70",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/513.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 519,
+      "name": "C. Tolisso",
+      "firstname": "Corentin",
+      "lastname": "Tolisso",
+      "age": 31,
+      "birth": {
+        "date": "1994-08-03",
+        "place": "Tarare",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "181",
+      "weight": "81",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/519.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 80,
+          "name": "Lyon",
+          "logo": "https://media.api-sports.io/football/teams/80.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 25,
+          "lineups": 21,
+          "minutes": 1749,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.148000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": 13,
+          "bench": 6
+        },
+        "shots": {
+          "total": 31,
+          "on": 15
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 1199,
+          "key": 26,
+          "accuracy": 41
+        },
+        "tackles": {
+          "total": 33,
+          "blocks": 9,
+          "interceptions": 10
+        },
+        "duels": {
+          "total": 188,
+          "won": 98
+        },
+        "dribbles": {
+          "attempts": 9,
+          "success": 5,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 23,
+          "committed": 24
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 1,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 529,
+      "name": "N. Tagliafico",
+      "firstname": "Nicolás Alejandro",
+      "lastname": "Tagliafico",
+      "age": 33,
+      "birth": {
+        "date": "1992-08-31",
+        "place": "Rafael Calzada",
+        "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "172",
+      "weight": "67",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/529.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 80,
+          "name": "Lyon",
+          "logo": "https://media.api-sports.io/football/teams/80.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 25,
+          "lineups": 25,
+          "minutes": 2129,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.968000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 5,
+          "bench": 0
+        },
+        "shots": {
+          "total": 11,
+          "on": 6
+        },
+        "goals": {
+          "total": 3,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 993,
+          "key": 18,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 54,
+          "blocks": 8,
+          "interceptions": 28
+        },
+        "duels": {
+          "total": 212,
+          "won": 111
+        },
+        "dribbles": {
+          "attempts": 15,
+          "success": 5,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 32,
+          "committed": 37
+        },
+        "cards": {
+          "yellow": 6,
+          "yellowred": 1,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 623,
+      "name": "B. Mendy",
+      "firstname": "Benjamin",
+      "lastname": "Mendy",
+      "age": 31,
+      "birth": {
+        "date": "1994-07-17",
+        "place": "Longjumeau",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "185",
+      "weight": "85",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/623.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 97,
+          "name": "Lorient",
+          "logo": "https://media.api-sports.io/football/teams/97.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 15,
+          "lineups": 7,
+          "minutes": 709,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.593333",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 8,
+          "out": 5,
+          "bench": 8
+        },
+        "shots": {
+          "total": 12,
+          "on": 4
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 311,
+          "key": 16,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 3,
+          "blocks": 2,
+          "interceptions": 7
+        },
+        "duels": {
+          "total": 56,
+          "won": 20
+        },
+        "dribbles": {
+          "attempts": 18,
+          "success": 9,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 4,
+          "committed": 12
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 646,
+      "name": "M. Gorgelin",
+      "firstname": "Mathieu",
+      "lastname": "Gorgelin",
+      "age": 35,
+      "birth": {
+        "date": "1990-08-05",
+        "place": "Ambérieu en Bugey",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "187 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/646.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 111,
+          "name": "Le Havre",
+          "logo": "https://media.api-sports.io/football/teams/111.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 1,
+          "lineups": 1,
+          "minutes": 90,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "6.900000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 29
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 2,
+          "assists": null,
+          "saves": 3
+        },
+        "passes": {
+          "total": 19,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 0
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 647,
+      "name": "Anthony Lopes",
+      "firstname": "Anthony",
+      "lastname": "Lopes",
+      "age": 35,
+      "birth": {
+        "date": "1990-10-01",
+        "place": "Givors",
+        "country": "France"
+      },
+      "nationality": "Portugal",
+      "height": "184",
+      "weight": "81",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/647.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 80,
+          "name": "Lyon",
+          "logo": "https://media.api-sports.io/football/teams/80.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 31,
+          "lineups": 31,
+          "minutes": 2790,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "7.290322",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 47,
+          "assists": 0,
+          "saves": 111
+        },
+        "passes": {
+          "total": 879,
+          "key": 1,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 12,
+          "won": 11
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 6,
+          "committed": 1
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 1
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 659,
+      "name": "M. Caqueret",
+      "firstname": "Maxence",
+      "lastname": "Caqueret",
+      "age": 25,
+      "birth": {
+        "date": "2000-02-15",
+        "place": "Vénissieux",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "174",
+      "weight": "63",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/659.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 80,
+          "name": "Lyon",
+          "logo": "https://media.api-sports.io/football/teams/80.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 34,
+          "lineups": 34,
+          "minutes": 3025,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.214705",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 4,
+          "bench": 0
+        },
+        "shots": {
+          "total": 15,
+          "on": 9
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 4,
+          "saves": null
+        },
+        "passes": {
+          "total": 1906,
+          "key": 58,
+          "accuracy": 48
+        },
+        "tackles": {
+          "total": 91,
+          "blocks": 9,
+          "interceptions": 48
+        },
+        "duels": {
+          "total": 366,
+          "won": 182
+        },
+        "dribbles": {
+          "attempts": 80,
+          "success": 52,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 30,
+          "committed": 34
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 663,
+      "name": "M. Terrier",
+      "firstname": "Martin Albert Frédéric",
+      "lastname": "Terrier",
+      "age": 28,
+      "birth": {
+        "date": "1997-03-04",
+        "place": "Armentières",
+        "country": "France"
+      },
+      "nationality": "France",
+      "height": "184",
+      "weight": "71",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/663.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 94,
+          "name": "Rennes",
+          "logo": "https://media.api-sports.io/football/teams/94.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 24,
+          "lineups": 19,
+          "minutes": 1533,
+          "number": null,
+          "position": "Attacker",
+          "rating": "7.116666",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": 12,
+          "bench": 5
+        },
+        "shots": {
+          "total": 26,
+          "on": 16
+        },
+        "goals": {
+          "total": 7,
+          "conceded": 0,
+          "assists": 3,
+          "saves": null
+        },
+        "passes": {
+          "total": 491,
+          "key": 16,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 14,
+          "blocks": 4,
+          "interceptions": 9
+        },
+        "duels": {
+          "total": 184,
+          "won": 91
+        },
+        "dribbles": {
+          "attempts": 34,
+          "success": 16,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 28,
+          "committed": 13
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": 0,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 679,
+      "name": "Ismaily",
+      "firstname": "Ismaily",
+      "lastname": "Gonçalves dos Santos",
+      "age": 35,
+      "birth": {
+        "date": "1990-01-11",
+        "place": "Ivinhema",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "177 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/679.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 30,
+          "lineups": 28,
+          "minutes": 2467,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.906666",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": 4,
+          "bench": 4
+        },
+        "shots": {
+          "total": 5,
+          "on": 4
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 1276,
+          "key": 10,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 72,
+          "blocks": 6,
+          "interceptions": 32
+        },
+        "duels": {
+          "total": 269,
+          "won": 163
+        },
+        "dribbles": {
+          "attempts": 55,
+          "success": 26,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 23,
+          "committed": 15
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 731,
+      "name": "K. Navas",
+      "firstname": "Keylor Antonio",
+      "lastname": "Navas Gamboa",
+      "age": 39,
+      "birth": {
+        "date": "1986-12-15",
+        "place": "San Isidro",
+        "country": "Costa Rica"
+      },
+      "nationality": "Costa Rica",
+      "height": "185",
+      "weight": "80",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/731.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 4,
+          "lineups": 4,
+          "minutes": 360,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "6.800000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 18
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 6,
+          "assists": 0,
+          "saves": 6
+        },
+        "passes": {
+          "total": 86,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 1
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 746,
+      "name": "Marco Asensio",
+      "firstname": "Marco",
+      "lastname": "Asensio Willemsen",
+      "age": 30,
+      "birth": {
+        "date": "1996-01-21",
+        "place": "Palma de Mallorca",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "182",
+      "weight": "76",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/746.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 85,
+          "name": "Paris Saint Germain",
+          "logo": "https://media.api-sports.io/football/teams/85.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 19,
+          "lineups": 16,
+          "minutes": 1113,
+          "number": null,
+          "position": "Forward",
+          "rating": "7.242105",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 3,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 19,
+          "on": 10
+        },
+        "goals": {
+          "total": 4,
+          "conceded": 0,
+          "assists": 5,
+          "saves": null
+        },
+        "passes": {
+          "total": 593,
+          "key": 34,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 12,
+          "blocks": null,
+          "interceptions": 5
+        },
+        "duels": {
+          "total": 72,
+          "won": 34
+        },
+        "dribbles": {
+          "attempts": 20,
+          "success": 10,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 10,
+          "committed": 8
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 785,
+      "name": "C. Ünder",
+      "firstname": "Cengiz",
+      "lastname": "Ünder",
+      "age": 28,
+      "birth": {
+        "date": "1997-07-14",
+        "place": "Balıkesir",
+        "country": "Türkiye"
+      },
+      "nationality": "Türkiye",
+      "height": "173",
+      "weight": "66",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/785.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Forward",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 879,
+      "name": "S. Mavididi",
+      "firstname": "Stephy Alvaro",
+      "lastname": "Mavididi",
+      "age": 27,
+      "birth": {
+        "date": "1998-05-31",
+        "place": "Derby",
+        "country": "England"
+      },
+      "nationality": "England",
+      "height": "182",
+      "weight": "71",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/879.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 82,
+          "name": "Montpellier",
+          "logo": "https://media.api-sports.io/football/teams/82.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 896,
+      "name": "A. Gomes",
+      "firstname": "Adilson Angel",
+      "lastname": "Abreu de Almeida Gomes",
+      "age": 25,
+      "birth": {
+        "date": "2000-08-31",
+        "place": "London",
+        "country": "England"
+      },
+      "nationality": "England",
+      "height": "168",
+      "weight": "56",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/896.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 79,
+          "name": "Lille",
+          "logo": "https://media.api-sports.io/football/teams/79.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 31,
+          "lineups": 31,
+          "minutes": 2579,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.322580",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 18,
+          "on": 7
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 8,
+          "saves": null
+        },
+        "passes": {
+          "total": 1696,
+          "key": 48,
+          "accuracy": 49
+        },
+        "tackles": {
+          "total": 26,
+          "blocks": 6,
+          "interceptions": 18
+        },
+        "duels": {
+          "total": 179,
+          "won": 91
+        },
+        "dribbles": {
+          "attempts": 34,
+          "success": 22,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 36,
+          "committed": 31
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 902,
+      "name": "N. Matić",
+      "firstname": "Nemanja",
+      "lastname": "Matić",
+      "age": 38,
+      "birth": {
+        "date": "1988-08-01",
+        "place": "Šabac",
+        "country": "Serbia"
+      },
+      "nationality": "Serbia",
+      "height": "194",
+      "weight": "85",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/902.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 80,
+          "name": "Lyon",
+          "logo": "https://media.api-sports.io/football/teams/80.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 15,
+          "lineups": 15,
+          "minutes": 1259,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.966666",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 3,
+          "on": 2
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 978,
+          "key": 7,
+          "accuracy": 56
+        },
+        "tackles": {
+          "total": 17,
+          "blocks": 6,
+          "interceptions": 16
+        },
+        "duels": {
+          "total": 102,
+          "won": 57
+        },
+        "dribbles": {
+          "attempts": 20,
+          "success": 12,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 8,
+          "committed": 8
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      },
+      {
+        "team": {
+          "id": 94,
+          "name": "Rennes",
+          "logo": "https://media.api-sports.io/football/teams/94.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 13,
+          "lineups": 13,
+          "minutes": 1027,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.207692",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 3,
+          "on": 1
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 793,
+          "key": 12,
+          "accuracy": 53
+        },
+        "tackles": {
+          "total": 19,
+          "blocks": 7,
+          "interceptions": 27
+        },
+        "duels": {
+          "total": 116,
+          "won": 70
+        },
+        "dribbles": {
+          "attempts": 19,
+          "success": 16,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 16,
+          "committed": 14
+        },
+        "cards": {
+          "yellow": 7,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 910,
+      "name": "A. Sánchez",
+      "firstname": "Alexis Alejandro",
+      "lastname": "Sánchez Sánchez",
+      "age": 37,
+      "birth": {
+        "date": "1988-12-19",
+        "place": "Tocopilla",
+        "country": "Chile"
+      },
+      "nationality": "Chile",
+      "height": "169",
+      "weight": "62",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/910.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 0,
+          "lineups": 0,
+          "minutes": 0,
+          "number": null,
+          "position": "Attacker",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 0,
+          "bench": 0
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": 0,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 926,
+      "name": "G. Kondogbia",
+      "firstname": "Geoffrey Edwin",
+      "lastname": "Kondogbia",
+      "age": 32,
+      "birth": {
+        "date": "1993-02-15",
+        "place": "Nemours",
+        "country": "France"
+      },
+      "nationality": "Central African Republic",
+      "height": "188",
+      "weight": "80",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/926.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 81,
+          "name": "Marseille",
+          "logo": "https://media.api-sports.io/football/teams/81.png"
+        },
+        "league": {
+          "id": 61,
+          "name": "Ligue 1",
+          "country": "France",
+          "logo": "https://media.api-sports.io/football/leagues/61.png",
+          "flag": "https://media.api-sports.io/flags/fr.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 26,
+          "lineups": 15,
+          "minutes": 1458,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.953846",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 11,
+          "out": 6,
+          "bench": 11
+        },
+        "shots": {
+          "total": 6,
+          "on": 1
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 944,
+          "key": 11,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 48,
+          "blocks": 4,
+          "interceptions": 29
+        },
+        "duels": {
+          "total": 170,
+          "won": 103
+        },
+        "dribbles": {
+          "attempts": 11,
+          "success": 9,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 29,
+          "committed": 25
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  }
+]

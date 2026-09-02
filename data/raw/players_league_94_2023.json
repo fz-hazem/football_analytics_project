@@ -1,0 +1,3950 @@
+[
+  {
+    "player": {
+      "id": 27,
+      "name": "Adán",
+      "firstname": "Antonio",
+      "lastname": "Adán Garrido",
+      "age": 39,
+      "birth": {
+        "date": "1987-05-13",
+        "place": "Madrid",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "190",
+      "weight": "86",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/27.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 228,
+          "name": "Sporting CP",
+          "logo": "https://media.api-sports.io/football/teams/228.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 22,
+          "lineups": 22,
+          "minutes": 1980,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "6.681818",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 22,
+          "assists": null,
+          "saves": 33
+        },
+        "passes": {
+          "total": 517,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 7,
+          "won": 4
+        },
+        "dribbles": {
+          "attempts": 1,
+          "success": 1,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 2,
+          "committed": 2
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 0
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 35,
+      "name": "Javi Montero",
+      "firstname": "Francisco Javier",
+      "lastname": "Montero Rubio",
+      "age": 27,
+      "birth": {
+        "date": "1999-01-14",
+        "place": "Sevilla",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "76 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/35.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 240,
+          "name": "Arouca",
+          "logo": "https://media.api-sports.io/football/teams/240.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 29,
+          "lineups": 29,
+          "minutes": 2589,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.782758",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 5,
+          "on": 1
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 1869,
+          "key": 6,
+          "accuracy": 54
+        },
+        "tackles": {
+          "total": 28,
+          "blocks": 20,
+          "interceptions": 34
+        },
+        "duels": {
+          "total": 202,
+          "won": 97
+        },
+        "dribbles": {
+          "attempts": 4,
+          "success": 3,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 22,
+          "committed": 46
+        },
+        "cards": {
+          "yellow": 9,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 42,
+      "name": "Gustavo Assunção",
+      "firstname": "Gustavo Enrique",
+      "lastname": "Giordano Amaro Assunção da Sil",
+      "age": 26,
+      "birth": {
+        "date": "2000-03-30",
+        "place": "São Paulo",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "178 cm",
+      "weight": "68 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/42.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 242,
+          "name": "Famalicao",
+          "logo": "https://media.api-sports.io/football/teams/242.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 20,
+          "lineups": 15,
+          "minutes": 632,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.644444",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 4,
+          "on": 1
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 296,
+          "key": 5,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 17,
+          "blocks": 2,
+          "interceptions": 11
+        },
+        "duels": {
+          "total": 81,
+          "won": 38
+        },
+        "dribbles": {
+          "attempts": 11,
+          "success": 5,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 10,
+          "committed": 16
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 111,
+      "name": "Rony Lopes",
+      "firstname": "Marcos Paulo",
+      "lastname": "Mesquita Lopes",
+      "age": 30,
+      "birth": {
+        "date": "1995-12-28",
+        "place": "Belém",
+        "country": "Brazil"
+      },
+      "nationality": "Portugal",
+      "height": "174",
+      "weight": "68",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/111.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 217,
+          "name": "SC Braga",
+          "logo": "https://media.api-sports.io/football/teams/217.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 23,
+          "lineups": 11,
+          "minutes": 403,
+          "number": null,
+          "position": "Forward",
+          "rating": "6.800000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 12,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 14,
+          "on": 8
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 171,
+          "key": 6,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 6,
+          "blocks": 1,
+          "interceptions": 2
+        },
+        "duels": {
+          "total": 38,
+          "won": 15
+        },
+        "dribbles": {
+          "attempts": 12,
+          "success": 3,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 4,
+          "committed": 5
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 114,
+      "name": "Adrien Silva",
+      "firstname": "Adrien Sébastien",
+      "lastname": "Perruchet da Silva",
+      "age": 35,
+      "birth": {
+        "date": "1989-03-15",
+        "place": "Angoulême",
+        "country": "France"
+      },
+      "nationality": "Portugal",
+      "height": "171 cm",
+      "weight": "72 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/114.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 226,
+          "name": "Rio Ave",
+          "logo": "https://media.api-sports.io/football/teams/226.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 10,
+          "lineups": 3,
+          "minutes": 336,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.660000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 7,
+          "out": 3,
+          "bench": 9
+        },
+        "shots": {
+          "total": 2,
+          "on": 1
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 201,
+          "key": 5,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 13,
+          "blocks": null,
+          "interceptions": 5
+        },
+        "duels": {
+          "total": 60,
+          "won": 32
+        },
+        "dribbles": {
+          "attempts": 8,
+          "success": 4,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 10,
+          "committed": 7
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 1,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 145,
+      "name": "Oriol Busquets",
+      "firstname": "Oriol",
+      "lastname": "Busquets Mas",
+      "age": 27,
+      "birth": {
+        "date": "1999-01-20",
+        "place": "Sant Feliu de Guíxols",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "185 cm",
+      "weight": "77 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/145.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 240,
+          "name": "Arouca",
+          "logo": "https://media.api-sports.io/football/teams/240.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 18,
+          "lineups": 12,
+          "minutes": 452,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.611764",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 6,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 2,
+          "on": 1
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 296,
+          "key": 3,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 8,
+          "blocks": 3,
+          "interceptions": 2
+        },
+        "duels": {
+          "total": 28,
+          "won": 15
+        },
+        "dribbles": {
+          "attempts": 2,
+          "success": 1,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 4,
+          "committed": 5
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 155,
+      "name": "Abel Ruiz",
+      "firstname": "Abel",
+      "lastname": "Ruiz Ortega",
+      "age": 26,
+      "birth": {
+        "date": "2000-01-28",
+        "place": "Almussafes",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "182",
+      "weight": "73",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/155.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 217,
+          "name": "SC Braga",
+          "logo": "https://media.api-sports.io/football/teams/217.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 30,
+          "lineups": 24,
+          "minutes": 1911,
+          "number": null,
+          "position": "Forward",
+          "rating": "6.670000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 6,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 33,
+          "on": 17
+        },
+        "goals": {
+          "total": 6,
+          "conceded": 0,
+          "assists": 2,
+          "saves": null
+        },
+        "passes": {
+          "total": 430,
+          "key": 25,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 8,
+          "blocks": 1,
+          "interceptions": 5
+        },
+        "duels": {
+          "total": 152,
+          "won": 41
+        },
+        "dribbles": {
+          "attempts": 22,
+          "success": 7,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 16,
+          "committed": 22
+        },
+        "cards": {
+          "yellow": 6,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 206,
+      "name": "João Mário",
+      "firstname": "João Mário",
+      "lastname": "Naval da Costa Eduardo",
+      "age": 33,
+      "birth": {
+        "date": "1993-01-19",
+        "place": "Porto",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "179",
+      "weight": "73",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/206.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 211,
+          "name": "Benfica",
+          "logo": "https://media.api-sports.io/football/teams/211.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 31,
+          "lineups": 29,
+          "minutes": 2442,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.096774",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 31,
+          "on": 19
+        },
+        "goals": {
+          "total": 3,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 1595,
+          "key": 36,
+          "accuracy": 46
+        },
+        "tackles": {
+          "total": 40,
+          "blocks": null,
+          "interceptions": 15
+        },
+        "duels": {
+          "total": 258,
+          "won": 119
+        },
+        "dribbles": {
+          "attempts": 61,
+          "success": 24,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 49,
+          "committed": 41
+        },
+        "cards": {
+          "yellow": 4,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 1,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 258,
+      "name": "Juan Bernat",
+      "firstname": "Juan",
+      "lastname": "Bernat Velasco",
+      "age": 33,
+      "birth": {
+        "date": "1993-03-01",
+        "place": "Valencia",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "177 cm",
+      "weight": "67 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/258.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 211,
+          "name": "Benfica",
+          "logo": "https://media.api-sports.io/football/teams/211.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 3,
+          "lineups": 3,
+          "minutes": 87,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.600000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 40,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 5,
+          "won": 3
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 1,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 266,
+      "name": "Á. Di María",
+      "firstname": "Ángel Fabián",
+      "lastname": "Di María Hernández",
+      "age": 38,
+      "birth": {
+        "date": "1988-02-14",
+        "place": "Rosario",
+        "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "178",
+      "weight": "75",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/266.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 211,
+          "name": "Benfica",
+          "logo": "https://media.api-sports.io/football/teams/211.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 28,
+          "lineups": 26,
+          "minutes": 2230,
+          "number": null,
+          "position": "Forward",
+          "rating": "7.810714",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 66,
+          "on": 37
+        },
+        "goals": {
+          "total": 9,
+          "conceded": 0,
+          "assists": 10,
+          "saves": null
+        },
+        "passes": {
+          "total": 1216,
+          "key": 81,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 20,
+          "blocks": null,
+          "interceptions": 9
+        },
+        "duels": {
+          "total": 253,
+          "won": 110
+        },
+        "dribbles": {
+          "attempts": 130,
+          "success": 58,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 30,
+          "committed": 6
+        },
+        "cards": {
+          "yellow": 4,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 2,
+          "missed": 1,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 298,
+      "name": "Rafael Camacho",
+      "firstname": "Rafael Euclides",
+      "lastname": "Soares Camacho",
+      "age": 26,
+      "birth": {
+        "date": "2000-05-22",
+        "place": "Lisboa",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "175",
+      "weight": "65",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/298.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 228,
+          "name": "Sporting CP",
+          "logo": "https://media.api-sports.io/football/teams/228.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Forward",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 369,
+      "name": "Diogo Costa",
+      "firstname": "Diogo",
+      "lastname": "Meireles da Costa",
+      "age": 26,
+      "birth": {
+        "date": "1999-09-19",
+        "place": "Santo Tirso",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "186",
+      "weight": "82",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/369.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 212,
+          "name": "FC Porto",
+          "logo": "https://media.api-sports.io/football/teams/212.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 33,
+          "lineups": 33,
+          "minutes": 2945,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "7.009090",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 25,
+          "assists": 0,
+          "saves": 59
+        },
+        "passes": {
+          "total": 1091,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 13,
+          "won": 10
+        },
+        "dribbles": {
+          "attempts": 1,
+          "success": 1,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 4,
+          "committed": 1
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 1
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 373,
+      "name": "Pepe",
+      "firstname": "Képler Laveran",
+      "lastname": "de Lima Ferreira",
+      "age": 41,
+      "birth": {
+        "date": "1983-02-26",
+        "place": "Maceió",
+        "country": "Brazil"
+      },
+      "nationality": "Portugal",
+      "height": "187 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/373.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 212,
+          "name": "FC Porto",
+          "logo": "https://media.api-sports.io/football/teams/212.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 22,
+          "lineups": 22,
+          "minutes": 1885,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.059090",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 3,
+          "bench": 0
+        },
+        "shots": {
+          "total": 10,
+          "on": 4
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 1601,
+          "key": 12,
+          "accuracy": 65
+        },
+        "tackles": {
+          "total": 27,
+          "blocks": 8,
+          "interceptions": 19
+        },
+        "duels": {
+          "total": 163,
+          "won": 87
+        },
+        "dribbles": {
+          "attempts": 5,
+          "success": 2,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 20,
+          "committed": 14
+        },
+        "cards": {
+          "yellow": 4,
+          "yellowred": 0,
+          "red": 2
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 379,
+      "name": "Bruno Costa",
+      "firstname": "Bruno Xavier",
+      "lastname": "Almeida Costa",
+      "age": 29,
+      "birth": {
+        "date": "1997-04-19",
+        "place": "Oliveira de Azeméis",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "174 cm",
+      "weight": "65 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/379.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 212,
+          "name": "FC Porto",
+          "logo": "https://media.api-sports.io/football/teams/212.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      },
+      {
+        "team": {
+          "id": 810,
+          "name": "Vizela",
+          "logo": "https://media.api-sports.io/football/teams/810.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 8,
+          "lineups": 7,
+          "minutes": 597,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.837500",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 1,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 2,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 265,
+          "key": 5,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 3,
+          "blocks": 1,
+          "interceptions": 10
+        },
+        "duels": {
+          "total": 60,
+          "won": 34
+        },
+        "dribbles": {
+          "attempts": 12,
+          "success": 8,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 20,
+          "committed": 7
+        },
+        "cards": {
+          "yellow": 2,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 380,
+      "name": "Otávio",
+      "firstname": "Otávio Edmilson",
+      "lastname": "da Silva Monteiro",
+      "age": 31,
+      "birth": {
+        "date": "1995-02-09",
+        "place": "João Pessoa",
+        "country": "Brazil"
+      },
+      "nationality": "Portugal",
+      "height": "172",
+      "weight": "65",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/380.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 212,
+          "name": "FC Porto",
+          "logo": "https://media.api-sports.io/football/teams/212.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 1,
+          "lineups": 1,
+          "minutes": 90,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.900000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 1,
+          "on": 1
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 51,
+          "key": 2,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 14,
+          "won": 3
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 2,
+          "committed": 3
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 383,
+      "name": "Wilson Manafá",
+      "firstname": "Wilson Migueis",
+      "lastname": "Manafá Jancó",
+      "age": 32,
+      "birth": {
+        "date": "1994-07-23",
+        "place": "Oliveira do Bairro",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "177",
+      "weight": "69",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/383.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 212,
+          "name": "FC Porto",
+          "logo": "https://media.api-sports.io/football/teams/212.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Defender",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 384,
+      "name": "M. Loum",
+      "firstname": "Mamadou",
+      "lastname": "Loum N'Diaye",
+      "age": 29,
+      "birth": {
+        "date": "1996-12-30",
+        "place": "Dakar",
+        "country": "Senegal"
+      },
+      "nationality": "Senegal",
+      "height": "193",
+      "weight": "80",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/384.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 212,
+          "name": "FC Porto",
+          "logo": "https://media.api-sports.io/football/teams/212.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 387,
+      "name": "Fernando Andrade",
+      "firstname": "Fernando",
+      "lastname": "Andrade dos Santos",
+      "age": 33,
+      "birth": {
+        "date": "1993-01-08",
+        "place": "São Paulo",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "182 cm",
+      "weight": "79 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/387.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 4716,
+          "name": "Casa Pia",
+          "logo": "https://media.api-sports.io/football/teams/4716.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 20,
+          "lineups": 11,
+          "minutes": 538,
+          "number": null,
+          "position": "Forward",
+          "rating": "6.510000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 9,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 9,
+          "on": 6
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 110,
+          "key": 3,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 11,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 72,
+          "won": 28
+        },
+        "dribbles": {
+          "attempts": 16,
+          "success": 6,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 5,
+          "committed": 10
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 1,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 391,
+      "name": "André Pereira",
+      "firstname": "André Filipe",
+      "lastname": "Ferreira Coelho Pereira",
+      "age": 29,
+      "birth": {
+        "date": "1995-05-05",
+        "place": "Porto",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "188 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/391.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 226,
+          "name": "Rio Ave",
+          "logo": "https://media.api-sports.io/football/teams/226.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 11,
+          "lineups": 7,
+          "minutes": 586,
+          "number": null,
+          "position": "Attacker",
+          "rating": "6.718181",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": 7,
+          "bench": 6
+        },
+        "shots": {
+          "total": 8,
+          "on": 3
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 155,
+          "key": 5,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 9,
+          "blocks": null,
+          "interceptions": 2
+        },
+        "duels": {
+          "total": 107,
+          "won": 42
+        },
+        "dribbles": {
+          "attempts": 17,
+          "success": 4,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 17,
+          "committed": 26
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 395,
+      "name": "Hernâni",
+      "firstname": "Hernâni Jorge",
+      "lastname": "Santos Fortes",
+      "age": 34,
+      "birth": {
+        "date": "1991-08-20",
+        "place": "Lisboa",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "179",
+      "weight": "72",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/395.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 226,
+          "name": "Rio Ave",
+          "logo": "https://media.api-sports.io/football/teams/226.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 12,
+          "lineups": 7,
+          "minutes": 340,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.733333",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 7,
+          "on": 1
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 50,
+          "key": 12,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": 1,
+          "interceptions": 1
+        },
+        "duels": {
+          "total": 27,
+          "won": 10
+        },
+        "dribbles": {
+          "attempts": 8,
+          "success": 4,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 5,
+          "committed": 2
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 527,
+      "name": "Bruno Varela",
+      "firstname": "Bruno Miguel",
+      "lastname": "Semedo Varela",
+      "age": 31,
+      "birth": {
+        "date": "1994-11-04",
+        "place": "Lisboa",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "191",
+      "weight": "88",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/527.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 224,
+          "name": "Vitória SC",
+          "logo": "https://media.api-sports.io/football/teams/224.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 27,
+          "lineups": 27,
+          "minutes": 2385,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "7.044444",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 31,
+          "assists": 0,
+          "saves": 70
+        },
+        "passes": {
+          "total": 706,
+          "key": 1,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": 18,
+          "won": 17
+        },
+        "dribbles": {
+          "attempts": 1,
+          "success": 1,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 8,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 0
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 552,
+      "name": "David Neres",
+      "firstname": "David",
+      "lastname": "Neres Campos",
+      "age": 29,
+      "birth": {
+        "date": "1997-03-03",
+        "place": "São Paulo",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "176",
+      "weight": "66",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/552.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 211,
+          "name": "Benfica",
+          "logo": "https://media.api-sports.io/football/teams/211.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 24,
+          "lineups": 20,
+          "minutes": 1162,
+          "number": null,
+          "position": "Forward",
+          "rating": "7.165217",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 24,
+          "on": 13
+        },
+        "goals": {
+          "total": 5,
+          "conceded": 0,
+          "assists": 7,
+          "saves": null
+        },
+        "passes": {
+          "total": 572,
+          "key": 33,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 11,
+          "blocks": 2,
+          "interceptions": 5
+        },
+        "duels": {
+          "total": 137,
+          "won": 58
+        },
+        "dribbles": {
+          "attempts": 66,
+          "success": 33,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 12,
+          "committed": 13
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 557,
+      "name": "O. Vlachodimos",
+      "firstname": "Odysseas",
+      "lastname": "Vlachodimos",
+      "age": 32,
+      "birth": {
+        "date": "1994-04-26",
+        "place": "Stuttgart",
+        "country": "Germany"
+      },
+      "nationality": "Greece",
+      "height": "188",
+      "weight": "78",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/557.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 211,
+          "name": "Benfica",
+          "logo": "https://media.api-sports.io/football/teams/211.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 1,
+          "lineups": 1,
+          "minutes": 90,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "6.200000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 3,
+          "assists": null,
+          "saves": 1
+        },
+        "passes": {
+          "total": 18,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 0
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 558,
+      "name": "I. Zlobin",
+      "firstname": "Ivan",
+      "lastname": "Zlobin",
+      "age": 29,
+      "birth": {
+        "date": "1997-03-07",
+        "place": "Tyumen",
+        "country": "Russia"
+      },
+      "nationality": "Russia",
+      "height": "191",
+      "weight": "84",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/558.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 242,
+          "name": "Famalicao",
+          "logo": "https://media.api-sports.io/football/teams/242.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 1,
+          "lineups": 1,
+          "minutes": 90,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "6.200000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 2,
+          "assists": 0,
+          "saves": 2
+        },
+        "passes": {
+          "total": 10,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 0
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 568,
+      "name": "Gabriel Pires",
+      "firstname": "Gabriel",
+      "lastname": "Appelt Pires",
+      "age": 32,
+      "birth": {
+        "date": "1993-09-18",
+        "place": "Rio de Janeiro",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "187",
+      "weight": "83",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/568.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 211,
+          "name": "Benfica",
+          "logo": "https://media.api-sports.io/football/teams/211.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 572,
+      "name": "Pizzi",
+      "firstname": "Luís Miguel Afonso",
+      "lastname": "Fernandes",
+      "age": 36,
+      "birth": {
+        "date": "1989-10-06",
+        "place": "Bragança",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "177",
+      "weight": "71",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/572.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 230,
+          "name": "Estoril",
+          "logo": "https://media.api-sports.io/football/teams/230.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 34,
+          "lineups": 24,
+          "minutes": 994,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.788888",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 10,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 12,
+          "on": 6
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 3,
+          "saves": null
+        },
+        "passes": {
+          "total": 599,
+          "key": 24,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 6,
+          "blocks": null,
+          "interceptions": 3
+        },
+        "duels": {
+          "total": 77,
+          "won": 30
+        },
+        "dribbles": {
+          "attempts": 18,
+          "success": 6,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 13,
+          "committed": 7
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      },
+      {
+        "team": {
+          "id": 217,
+          "name": "SC Braga",
+          "logo": "https://media.api-sports.io/football/teams/217.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 29,
+          "lineups": 22,
+          "minutes": 994,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.788888",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 7,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 12,
+          "on": 6
+        },
+        "goals": {
+          "total": 1,
+          "conceded": 0,
+          "assists": 3,
+          "saves": null
+        },
+        "passes": {
+          "total": 599,
+          "key": 24,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 6,
+          "blocks": null,
+          "interceptions": 3
+        },
+        "duels": {
+          "total": 77,
+          "won": 30
+        },
+        "dribbles": {
+          "attempts": 18,
+          "success": 6,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 13,
+          "committed": 7
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 573,
+      "name": "Rafa",
+      "firstname": "Rafael Alexandre",
+      "lastname": "Fernandes Ferreira da Silva",
+      "age": 33,
+      "birth": {
+        "date": "1993-05-17",
+        "place": "Forte da Casa",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "172",
+      "weight": "62",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/573.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 211,
+          "name": "Benfica",
+          "logo": "https://media.api-sports.io/football/teams/211.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 30,
+          "lineups": 30,
+          "minutes": 2488,
+          "number": null,
+          "position": "Forward",
+          "rating": "7.586666",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 59,
+          "on": 34
+        },
+        "goals": {
+          "total": 14,
+          "conceded": 0,
+          "assists": 12,
+          "saves": null
+        },
+        "passes": {
+          "total": 983,
+          "key": 64,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 23,
+          "blocks": null,
+          "interceptions": 7
+        },
+        "duels": {
+          "total": 290,
+          "won": 144
+        },
+        "dribbles": {
+          "attempts": 100,
+          "success": 49,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 60,
+          "committed": 22
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 575,
+      "name": "Florentino",
+      "firstname": "Florentino Ibrain",
+      "lastname": "Morris Luís",
+      "age": 26,
+      "birth": {
+        "date": "1999-08-19",
+        "place": "Lisboa",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "184",
+      "weight": "74",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/575.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 211,
+          "name": "Benfica",
+          "logo": "https://media.api-sports.io/football/teams/211.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 30,
+          "lineups": 25,
+          "minutes": 1707,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "7.053333",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 8,
+          "on": 2
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 1372,
+          "key": 12,
+          "accuracy": 40
+        },
+        "tackles": {
+          "total": 75,
+          "blocks": 5,
+          "interceptions": 53
+        },
+        "duels": {
+          "total": 232,
+          "won": 121
+        },
+        "dribbles": {
+          "attempts": 10,
+          "success": 7,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 14,
+          "committed": 32
+        },
+        "cards": {
+          "yellow": 8,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 577,
+      "name": "A. Samaris",
+      "firstname": "Andreas",
+      "lastname": "Samaris",
+      "age": 34,
+      "birth": {
+        "date": "1989-06-13",
+        "place": "Patras",
+        "country": "Greece"
+      },
+      "nationality": "Greece",
+      "height": "189 cm",
+      "weight": "83 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/577.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 226,
+          "name": "Rio Ave",
+          "logo": "https://media.api-sports.io/football/teams/226.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 604,
+      "name": "André Simões",
+      "firstname": "André Luís",
+      "lastname": "Gomes Simões",
+      "age": 36,
+      "birth": {
+        "date": "1989-12-16",
+        "place": "Matosinhos",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "177 cm",
+      "weight": "74 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/604.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 242,
+          "name": "Famalicao",
+          "logo": "https://media.api-sports.io/football/teams/242.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": null,
+          "lineups": null,
+          "minutes": null,
+          "number": null,
+          "position": "Midfielder",
+          "rating": null,
+          "captain": false
+        },
+        "substitutes": {
+          "in": null,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": null,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": null,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": null,
+          "blocks": null,
+          "interceptions": null
+        },
+        "duels": {
+          "total": null,
+          "won": null
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": null
+        },
+        "cards": {
+          "yellow": null,
+          "yellowred": null,
+          "red": null
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": null,
+          "missed": null,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 624,
+      "name": "N. Otamendi",
+      "firstname": "Nicolás Hernán Gonzalo",
+      "lastname": "Otamendi",
+      "age": 38,
+      "birth": {
+        "date": "1988-02-12",
+        "place": "Buenos Aires",
+        "country": "Argentina"
+      },
+      "nationality": "Argentina",
+      "height": "183",
+      "weight": "80",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/624.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 211,
+          "name": "Benfica",
+          "logo": "https://media.api-sports.io/football/teams/211.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 31,
+          "lineups": 31,
+          "minutes": 2754,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.258064",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 26,
+          "on": 10
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": 1,
+          "saves": null
+        },
+        "passes": {
+          "total": 1875,
+          "key": 13,
+          "accuracy": 54
+        },
+        "tackles": {
+          "total": 50,
+          "blocks": 14,
+          "interceptions": 53
+        },
+        "duels": {
+          "total": 249,
+          "won": 147
+        },
+        "dribbles": {
+          "attempts": 10,
+          "success": 7,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 18,
+          "committed": 19
+        },
+        "cards": {
+          "yellow": 11,
+          "yellowred": null,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 675,
+      "name": "A. Trubin",
+      "firstname": "Anatolii",
+      "lastname": "Trubin",
+      "age": 25,
+      "birth": {
+        "date": "2001-08-01",
+        "place": "Donetsk",
+        "country": "Ukraine"
+      },
+      "nationality": "Ukraine",
+      "height": "199",
+      "weight": "88",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/675.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 211,
+          "name": "Benfica",
+          "logo": "https://media.api-sports.io/football/teams/211.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 28,
+          "lineups": 28,
+          "minutes": 2520,
+          "number": null,
+          "position": "Goalkeeper",
+          "rating": "7.135714",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": null,
+          "on": null
+        },
+        "goals": {
+          "total": null,
+          "conceded": 22,
+          "assists": null,
+          "saves": 76
+        },
+        "passes": {
+          "total": 603,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 1,
+          "blocks": null,
+          "interceptions": 1
+        },
+        "duels": {
+          "total": 15,
+          "won": 14
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 4,
+          "committed": null
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": 2
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 761,
+      "name": "Cristo González",
+      "firstname": "Cristo Ramón",
+      "lastname": "González Pérez",
+      "age": 28,
+      "birth": {
+        "date": "1997-10-24",
+        "place": "Santa Cruz de Tenerife",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "179 cm",
+      "weight": "69 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/761.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 240,
+          "name": "Arouca",
+          "logo": "https://media.api-sports.io/football/teams/240.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 34,
+          "lineups": 33,
+          "minutes": 2790,
+          "number": null,
+          "position": "Forward",
+          "rating": "7.223529",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 1,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 78,
+          "on": 45
+        },
+        "goals": {
+          "total": 15,
+          "conceded": 0,
+          "assists": 9,
+          "saves": null
+        },
+        "passes": {
+          "total": 875,
+          "key": 49,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 21,
+          "blocks": 1,
+          "interceptions": 8
+        },
+        "duels": {
+          "total": 261,
+          "won": 99
+        },
+        "dribbles": {
+          "attempts": 73,
+          "success": 35,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 32,
+          "committed": 23
+        },
+        "cards": {
+          "yellow": 4,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 3,
+          "missed": 3,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 773,
+      "name": "Iván Marcano",
+      "firstname": "Iván",
+      "lastname": "Marcano Sierra",
+      "age": 38,
+      "birth": {
+        "date": "1987-06-23",
+        "place": "Santander",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "189 cm",
+      "weight": "82 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/773.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 212,
+          "name": "FC Porto",
+          "logo": "https://media.api-sports.io/football/teams/212.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 5,
+          "lineups": 5,
+          "minutes": 369,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.340000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": 1,
+          "bench": 0
+        },
+        "shots": {
+          "total": 6,
+          "on": 4
+        },
+        "goals": {
+          "total": 2,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 312,
+          "key": 2,
+          "accuracy": 56
+        },
+        "tackles": {
+          "total": 9,
+          "blocks": 1,
+          "interceptions": 3
+        },
+        "duels": {
+          "total": 33,
+          "won": 23
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 2,
+          "committed": 1
+        },
+        "cards": {
+          "yellow": 1,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 925,
+      "name": "Gonçalo Guedes",
+      "firstname": "Gonçalo Manuel",
+      "lastname": "Ganchinho Guedes",
+      "age": 29,
+      "birth": {
+        "date": "1996-11-29",
+        "place": "Benavente",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "179",
+      "weight": "68",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/925.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 211,
+          "name": "Benfica",
+          "logo": "https://media.api-sports.io/football/teams/211.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 9,
+          "lineups": 5,
+          "minutes": 157,
+          "number": null,
+          "position": "Forward",
+          "rating": "6.677777",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 4,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 3,
+          "on": 1
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 72,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 1,
+          "blocks": null,
+          "interceptions": 1
+        },
+        "duels": {
+          "total": 25,
+          "won": 16
+        },
+        "dribbles": {
+          "attempts": 6,
+          "success": 5,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 8,
+          "committed": 4
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 936,
+      "name": "Fran Navarro",
+      "firstname": "Francisco José",
+      "lastname": "Navarro Aliaga",
+      "age": 28,
+      "birth": {
+        "date": "1998-02-03",
+        "place": "Valencia",
+        "country": "Spain"
+      },
+      "nationality": "Spain",
+      "height": "179",
+      "weight": "74",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/936.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 212,
+          "name": "FC Porto",
+          "logo": "https://media.api-sports.io/football/teams/212.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 6,
+          "lineups": 3,
+          "minutes": 178,
+          "number": null,
+          "position": "Forward",
+          "rating": "6.450000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 3,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 5,
+          "on": 2
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": null,
+          "saves": null
+        },
+        "passes": {
+          "total": 20,
+          "key": 2,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 1,
+          "blocks": null,
+          "interceptions": 2
+        },
+        "duels": {
+          "total": 28,
+          "won": 10
+        },
+        "dribbles": {
+          "attempts": 3,
+          "success": 1,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 5,
+          "committed": 3
+        },
+        "cards": {
+          "yellow": 0,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 970,
+      "name": "Wendell",
+      "firstname": "Wendell",
+      "lastname": "Nascimento Borges",
+      "age": 33,
+      "birth": {
+        "date": "1993-07-20",
+        "place": "Fortaleza",
+        "country": "Brazil"
+      },
+      "nationality": "Brazil",
+      "height": "178",
+      "weight": "72",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/970.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 212,
+          "name": "FC Porto",
+          "logo": "https://media.api-sports.io/football/teams/212.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 25,
+          "lineups": 25,
+          "minutes": 2106,
+          "number": null,
+          "position": "Defender",
+          "rating": "7.344000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 0,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 15,
+          "on": 9
+        },
+        "goals": {
+          "total": 4,
+          "conceded": 0,
+          "assists": 2,
+          "saves": null
+        },
+        "passes": {
+          "total": 1252,
+          "key": 35,
+          "accuracy": 42
+        },
+        "tackles": {
+          "total": 42,
+          "blocks": 3,
+          "interceptions": 15
+        },
+        "duels": {
+          "total": 239,
+          "won": 149
+        },
+        "dribbles": {
+          "attempts": 38,
+          "success": 21,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 43,
+          "committed": 30
+        },
+        "cards": {
+          "yellow": 11,
+          "yellowred": null,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 1126,
+      "name": "E. Kouassi",
+      "firstname": "Jules Christ Eboue",
+      "lastname": "Kouassi",
+      "age": 28,
+      "birth": {
+        "date": "1997-12-13",
+        "place": "Abidjan",
+        "country": "Côte d'Ivoire"
+      },
+      "nationality": "Côte d'Ivoire",
+      "height": "185 cm",
+      "weight": "70 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/1126.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 240,
+          "name": "Arouca",
+          "logo": "https://media.api-sports.io/football/teams/240.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 25,
+          "lineups": 20,
+          "minutes": 1354,
+          "number": null,
+          "position": "Midfielder",
+          "rating": "6.717391",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 7,
+          "on": 4
+        },
+        "goals": {
+          "total": null,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 791,
+          "key": 10,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 28,
+          "blocks": 7,
+          "interceptions": 11
+        },
+        "duels": {
+          "total": 158,
+          "won": 83
+        },
+        "dribbles": {
+          "attempts": 7,
+          "success": 3,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 15,
+          "committed": 27
+        },
+        "cards": {
+          "yellow": 5,
+          "yellowred": null,
+          "red": 1
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 1163,
+      "name": "Bruma",
+      "firstname": "Armindo",
+      "lastname": "Tué Na Bangna",
+      "age": 31,
+      "birth": {
+        "date": "1994-10-24",
+        "place": "Bissau",
+        "country": "Guinea-Bissau"
+      },
+      "nationality": "Portugal",
+      "height": "173",
+      "weight": "70",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/1163.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 217,
+          "name": "SC Braga",
+          "logo": "https://media.api-sports.io/football/teams/217.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 26,
+          "lineups": 24,
+          "minutes": 1735,
+          "number": null,
+          "position": "Forward",
+          "rating": "7.123076",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 2,
+          "out": null,
+          "bench": null
+        },
+        "shots": {
+          "total": 42,
+          "on": 22
+        },
+        "goals": {
+          "total": 6,
+          "conceded": 0,
+          "assists": 2,
+          "saves": null
+        },
+        "passes": {
+          "total": 728,
+          "key": 28,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 22,
+          "blocks": 1,
+          "interceptions": 5
+        },
+        "duels": {
+          "total": 239,
+          "won": 110
+        },
+        "dribbles": {
+          "attempts": 111,
+          "success": 62,
+          "past": null
+        },
+        "fouls": {
+          "drawn": 21,
+          "committed": 10
+        },
+        "cards": {
+          "yellow": 3,
+          "yellowred": null,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  },
+  {
+    "player": {
+      "id": 1203,
+      "name": "Luís Neto",
+      "firstname": "Luís Carlos",
+      "lastname": "Novo Neto",
+      "age": 36,
+      "birth": {
+        "date": "1988-05-26",
+        "place": "Póvoa do Varzim",
+        "country": "Portugal"
+      },
+      "nationality": "Portugal",
+      "height": "185 cm",
+      "weight": "71 kg",
+      "injured": false,
+      "photo": "https://media.api-sports.io/football/players/1203.png"
+    },
+    "statistics": [
+      {
+        "team": {
+          "id": 228,
+          "name": "Sporting CP",
+          "logo": "https://media.api-sports.io/football/teams/228.png"
+        },
+        "league": {
+          "id": 94,
+          "name": "Primeira Liga",
+          "country": "Portugal",
+          "logo": "https://media.api-sports.io/football/leagues/94.png",
+          "flag": "https://media.api-sports.io/flags/pt.svg",
+          "season": 2023
+        },
+        "games": {
+          "appearences": 7,
+          "lineups": 2,
+          "minutes": 131,
+          "number": null,
+          "position": "Defender",
+          "rating": "6.620000",
+          "captain": false
+        },
+        "substitutes": {
+          "in": 5,
+          "out": 2,
+          "bench": 27
+        },
+        "shots": {
+          "total": 1,
+          "on": 1
+        },
+        "goals": {
+          "total": 0,
+          "conceded": 0,
+          "assists": 0,
+          "saves": null
+        },
+        "passes": {
+          "total": 106,
+          "key": null,
+          "accuracy": null
+        },
+        "tackles": {
+          "total": 1,
+          "blocks": 2,
+          "interceptions": 1
+        },
+        "duels": {
+          "total": 9,
+          "won": 4
+        },
+        "dribbles": {
+          "attempts": null,
+          "success": null,
+          "past": null
+        },
+        "fouls": {
+          "drawn": null,
+          "committed": 2
+        },
+        "cards": {
+          "yellow": 4,
+          "yellowred": 0,
+          "red": 0
+        },
+        "penalty": {
+          "won": null,
+          "commited": null,
+          "scored": 0,
+          "missed": 0,
+          "saved": null
+        }
+      }
+    ]
+  }
+]
