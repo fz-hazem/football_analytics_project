@@ -71,21 +71,20 @@ The engine operates as a sequential machine learning and ETL pipeline. Raw stati
 
 ```text
 football_analytics_project/
-├── assets/                  # Static assets & media
-├── config/                  # Application & pipeline configuration
+├── assets/                 
+├── config/                  
 ├── data/
-│   ├── processed/           # Transformed & cleaned datasets
-│   ├── raw/                 # Ingested raw datasets
-│   ├── reference/           # League mappings & metadata
-│   ├── football_analytics.db # Core SQLite Database
+│   ├── processed/           
+│   ├── raw/                 
+│   ├── reference/           
+│   ├── football_analytics.db 
 │   └── player_archetypes_pca.png
-├── logs/                    # Pipeline execution & audit logs
-├── prisma/                  # Prisma ORM schema & migrations
-├── scripts/                 # Modular ML & data processing scripts
-├── test/                    # Integration & unit test suites
-├── web/                     # Next.js full-stack application
-├── .env                     # Environment variables
-├── app_dashboard.py         # Analytics dashboard interface
-├── package.json             # Node.js project configuration
-├── requirements.txt         # Python dependencies
-└── README.md                # Project documentation
+├── logs/                    
+├── prisma/                 
+├── scripts/                 
+├── test/                   
+├── web/                    
+├── app_dashboard.py         
+├── package.json             
+├── requirements.txt         
+└── README.md                
