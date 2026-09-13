@@ -9,15 +9,28 @@
 [![Prisma](https://img.shields.io/badge/Prisma-5%2B-2D3748.svg)](https://www.prisma.io/)
 [![SQLite](https://img.shields.io/badge/SQLite-3-lightgrey.svg)](https://www.sqlite.org/)
 
-An end-to-end, professional-grade football scouting and analytics platform designed for modern, data-driven recruitment. Moving beyond simple web interfaces, this engine processes raw match statistics into high-dimensional tactical embeddings, probabilistic soft clusters, outlier gem detection, and contextual similarity models.
+An end-to-end, professional-grade football scouting and analytics platform built for modern, data-driven recruitment. Moving beyond basic statistical filtering, this engine processes raw match data into high-dimensional tactical embeddings, probabilistic soft clusters, anomaly-based gem detection, and contextual similarity models.
 
 </div>
 
 ---
 
-## 📖 Engine Overview & Pipeline Execution Flow
+## 📖 Pipeline Execution Flow
 
-The machine learning engine operates as a sequential execution pipeline, beginning with `quality_check.py` to enforce statistical validation rules and schema compliance before `load_to_postgres.py` ingests the cleaned player data into the SQLite database. Dimensionality reduction and hard segmentation are executed by `train_player_clustering.py`, which applies PCA and K-Means to map players into five core tactical archetypes, while `detect_scouting_outliers.py` utilizes an Isolation Forest algorithm to identify statistical anomalies and hidden scouting gems. To power replacement search functionality, `build_player_similarities.py` computes intra-cluster cosine similarity scores across matched tactical profiles. For probabilistic modeling, `train_advanced_ml.py` converts skewed per-90 metrics into percentile ranks via `QuantileTransformer` and fits Gaussian Mixture Models (GMM) to output hybrid role probabilities, which is mirrored by `train_umap_contextual.py` to calculate positional Z-scores and map non-linear tactical manifolds using UMAP and t-SNE embeddings. Web visualization is driven by `app_dashboard.py` alongside a Next.js web application consuming FastAPI REST endpoints in real time.
+The engine operates as a sequential machine learning and ETL pipeline. Raw statistical data is transformed into actionable scouting intelligence through the following phases:
+
+1. **Validation & Ingestion** (`quality_check.py` ➔ `load_to_postgres.py`)
+   Enforces statistical validation rules and schema compliance before ingesting cleaned player data into the SQLite database.
+2. **Hard Segmentation & Dimensionality Reduction** (`train_player_clustering.py`)
+   Applies PCA and K-Means to map players into five core tactical archetypes based on their statistical profiles.
+3. **Probabilistic Modeling & Soft Clustering** (`train_advanced_ml.py`)
+   Normalizes skewed per-90 metrics via `QuantileTransformer` and fits Gaussian Mixture Models (GMM) to output hybrid role probabilities.
+4. **Contextual Profiling & Similarity** (`train_umap_contextual.py` ➔ `build_player_similarities.py`)
+   Calculates positional Z-scores and projects non-linear tactical manifolds using UMAP/t-SNE. Computes intra-cluster cosine similarity scores to power direct replacement searches.
+5. **Anomaly & Gem Detection** (`detect_scouting_outliers.py`)
+   Utilizes an Isolation Forest algorithm to identify statistical anomalies and isolate hidden scouting gems.
+6. **Data Visualization** (`app_dashboard.py` & `web/`)
+   Exposes insights via a Next.js web application consuming FastAPI REST endpoints, supported by a Streamlit analytics dashboard.
 
 ---
 
@@ -25,30 +38,32 @@ The machine learning engine operates as a sequential execution pipeline, beginni
 
 <div align="center">
   <img src="./data/player_archetypes_pca.png" alt="Tactical Archetypes PCA Map" width="850"/>
-  <p><i>Figure 1: Spatial 2D projection using <b>PCA (54.1% Explained Variance)</b> and <b>K-Means Clustering ($K=5$)</b>. Displays tactical progression from defenders on the left (Akanji, Zagadou) to creative wingers/attackers on the right (Sancho, Pulisic), with specialized profiles (Oelschlägel) and extreme statistical outliers isolated into distinct clusters.</i></p>
+  <p><i><b>Figure 1:</b> Spatial 2D projection using <b>PCA (54.1% Explained Variance)</b> and <b>K-Means Clustering (K=5)</b>. Illustrates the tactical progression from defensive profiles (left) to creative attackers (right), while isolating specialized roles and statistical outliers.</i></p>
 </div>
 
 ---
 
-## 📌 Core Architecture & Machine Learning Modules
+## 📌 Machine Learning Modules
 
-* **Data Quality & Validation (`scripts/quality_check.py`)**: Pre-ingestion validation rules ensuring statistical schema compliance and data hygiene prior to SQLite database loading.
-* **Percentile Rank Normalization (`QuantileTransformer`)**: Handles skewed football metrics by converting raw per-90 stats into equitable percentile ranks ($0.0$ to $1.0$).
-* **Tactical Archetype Profiling (`scripts/train_player_clustering.py`)**: Reduces multi-metric dimensionality to principal components and segments players into $5$ core tactical archetypes via PCA + K-Means.
-* **Soft Clustering & Hybrid Roles (`scripts/train_advanced_ml.py`)**: Computes probabilistic multi-cluster membership vectors $\sum_{k=1}^{K} P(\text{Cluster}_k \vert{} \text{Player}) = 1.0$ alongside model confidence scores using Gaussian Mixture Models.
-* **Outlier & Gem Scouting (`scripts/detect_scouting_outliers.py`)**: Identifies high-value, unique statistical profiles and undervalued targets operating outside normal performance distributions using Isolation Forests.
-* **Contextual Positional Embeddings (`scripts/train_umap_contextual.py`)**: Normalizes performance metrics strictly within positional groups (`position_group`) using Positional Z-Scores and projects non-linear tactical manifolds via UMAP / t-SNE.
-* **Intra-Cluster Replacement Search (`scripts/build_player_similarities.py`)**: Cosine similarity engine calculated strictly within tactical clusters to deliver realistic replacement candidates.
+* **Data Quality Validator:** Enforces pre-ingestion schema compliance and data hygiene routines (`scripts/quality_check.py`).
+* **Percentile Normalization:** Employs `QuantileTransformer` to handle heavily skewed football metrics, converting raw per-90 statistics into equitable percentile ranks (0.0 to 1.0).
+* **Tactical Archetype Profiling:** Reduces multi-metric dimensionality via PCA and segments players into distinct tactical archetypes using K-Means (`scripts/train_player_clustering.py`).
+* **Hybrid Role Modeling:** Calculates probabilistic multi-cluster membership vectors and model confidence scores using Gaussian Mixture Models (`scripts/train_advanced_ml.py`).
+* **Scouting Outlier Detection:** Flags high-value, statistically unique profiles operating outside standard performance distributions using Isolation Forests (`scripts/detect_scouting_outliers.py`).
+* **Contextual Positional Embeddings:** Normalizes performance strictly within positional cohorts using Positional Z-Scores, mapping complex tactical relationships via UMAP and t-SNE (`scripts/train_umap_contextual.py`).
+* **Replacement Similarity Engine:** Leverages intra-cluster cosine similarity to generate highly realistic, tactically matched player replacement candidates (`scripts/build_player_similarities.py`).
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Core Engine**: Python 3.10+
-* **Database & ORM**: SQLite (`data/football_analytics.db`), SQLAlchemy, Prisma ORM
-* **Data Science & ML**: Pandas, NumPy, Scikit-learn, UMAP-learn
-* **Visualization**: Matplotlib, Seaborn, Plotly, Streamlit (`app_dashboard.py`)
-* **Frontend & Web Backend**: Next.js 14, React, Tailwind CSS, FastAPI REST API
+| Domain | Technologies |
+| :--- | :--- |
+| **Core Engine** | Python 3.10+ |
+| **Data Science & ML** | Pandas, NumPy, Scikit-learn, UMAP-learn |
+| **Database & ORM** | SQLite (`football_analytics.db`), SQLAlchemy, Prisma ORM |
+| **Backend API** | FastAPI |
+| **Frontend & Visualization** | Next.js 14, React, Tailwind CSS, Matplotlib, Seaborn, Streamlit |
 
 ---
 
@@ -56,23 +71,21 @@ The machine learning engine operates as a sequential execution pipeline, beginni
 
 ```text
 football_analytics_project/
-├── assests/                         # Static assets & media
-├── config/                          # Application & pipeline configuration
+├── assets/                  # Static assets & media
+├── config/                  # Application & pipeline configuration
 ├── data/
-│   ├── processed/                   # Transformed datasets
-│   ├── raw/                         # Ingested raw datasets
-│   ├── reference/                   # Mappings & League metadata
-│   ├── football_analytics.db        # Core SQLite Database
-│   └── player_archetypes_pca.png    # PCA & K-Means Spatial Visualization
-├── logs/                            # Pipeline execution & audit logs
-├── prisma/                          # Prisma ORM schema & migrations
-├── scripts/                         # Modular ML & data processing scripts
-├── test/                            # Integration & unit test suites
-├── web/                             # Next.js full-stack application
-├── .env                             # Environment variables
-├── .gitignore                       # Git exclusion rules
-├── app_dashboard.py                 # Analytics dashboard interface
-├── package.json                     # Node.js project configuration
-├── package-lock.json                # Dependency lockfile
-├── requirements.txt                 # Python dependencies
-└── README.md                        # Project documentation
+│   ├── processed/           # Transformed & cleaned datasets
+│   ├── raw/                 # Ingested raw datasets
+│   ├── reference/           # League mappings & metadata
+│   ├── football_analytics.db # Core SQLite Database
+│   └── player_archetypes_pca.png
+├── logs/                    # Pipeline execution & audit logs
+├── prisma/                  # Prisma ORM schema & migrations
+├── scripts/                 # Modular ML & data processing scripts
+├── test/                    # Integration & unit test suites
+├── web/                     # Next.js full-stack application
+├── .env                     # Environment variables
+├── app_dashboard.py         # Analytics dashboard interface
+├── package.json             # Node.js project configuration
+├── requirements.txt         # Python dependencies
+└── README.md                # Project documentation
