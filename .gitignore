@@ -19,4 +19,5 @@ web/.next/
 # IDE & OS
 .vscode/
 .DS_Store
-Thumbs.db
+Thumbs.db*.log
+.env
